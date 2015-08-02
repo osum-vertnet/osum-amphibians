@@ -1,0 +1,144 @@
+Report for Institution Code OSUM, Resource osum_amphibians
+Usage stats for July, 2015, generated on 2015/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 49
+Number of records retrieved in searches: 948
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Germany ; Times: 2
+	Country: United States ; Times: 47
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-02 ; Times: 2
+	Date: 2015-07-04 ; Times: 1
+	Date: 2015-07-05 ; Times: 2
+	Date: 2015-07-08 ; Times: 1
+	Date: 2015-07-09 ; Times: 2
+	Date: 2015-07-10 ; Times: 3
+	Date: 2015-07-13 ; Times: 3
+	Date: 2015-07-14 ; Times: 1
+	Date: 2015-07-16 ; Times: 1
+	Date: 2015-07-17 ; Times: 1
+	Date: 2015-07-18 ; Times: 5
+	Date: 2015-07-19 ; Times: 2
+	Date: 2015-07-22 ; Times: 3
+	Date: 2015-07-23 ; Times: 1
+	Date: 2015-07-24 ; Times: 2
+	Date: 2015-07-27 ; Times: 7
+	Date: 2015-07-28 ; Times: 1
+	Date: 2015-07-29 ; Times: 7
+	Date: 2015-07-30 ; Times: 1
+	Date: 2015-07-31 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:500" ; Times: 1
+	Query: "lithobates catesbeiana" ; Times: 1
+	Query: "Ambystoma cingulatum country:"United States"" ; Times: 1
+	Query: "catalognumber:2512" ; Times: 1
+	Query: "stateprovince:"north carolina" country:"united states" specificepithet:versicolor genus:hyla" ; Times: 1
+	Query: "OSUM Amphibians" ; Times: 1
+	Query: "necturus wisconsin" ; Times: 6
+	Query: "institutioncode:osum" ; Times: 4
+	Query: "pseudotriton montanus blount" ; Times: 1
+	Query: "Necturus type:specimen (mississippi)" ; Times: 1
+	Query: "OSUM" ; Times: 2
+	Query: "cingulatum" ; Times: 1
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:heckscheri genus:rana" ; Times: 2
+	Query: "opacum west virginia" ; Times: 1
+	Query: "mammoth cave amphibian" ; Times: 1
+	Query: "rana sylvatica alabama" ; Times: 2
+	Query: "pseudotriton montanus stateprovince:"Tennessee"" ; Times: 1
+	Query: "OSUM recordedby:Hines (J. Hines)" ; Times: 1
+	Query: "OSUM (J. Hines)" ; Times: 1
+	Query: "cryptobranchus alleganiensis bishopi" ; Times: 1
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:aeneus genus:aneides" ; Times: 2
+	Query: "stateprovince:"north carolina" country:"united states" specificepithet:aeneus genus:aneides" ; Times: 3
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:ornata genus:Pseudacris" ; Times: 3
+	Query: "eleutherodactylus distance(location,geopoint(25.601902261115725,-76.9921875))<100000" ; Times: 1
+	Query: "pseudotriton montanus stateprovince:"tennessee"" ; Times: 1
+	Query: "Gyrinophilus porphyriticus stateprovince:"Ohio" country:"United States"" ; Times: 1
+	Query: "pseudotriton montanus sevier" ; Times: 1
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:aeneus genus:Aneides" ; Times: 1
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:ornata genus:pseudacris" ; Times: 2
+	Query: "diastictus" ; Times: 1
+	Query: "valliceps isla" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 32 (out of 1084 download events in this period)
+Total number of records downloaded: 1830 (out of 4365690 records downloaded for all resources in this period)
+Total number of unique records downloaded: 1088
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 30
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-02 ; Times: 3
+	Date: 2015-07-03 ; Times: 2
+	Date: 2015-07-08 ; Times: 4
+	Date: 2015-07-10 ; Times: 1
+	Date: 2015-07-13 ; Times: 1
+	Date: 2015-07-14 ; Times: 2
+	Date: 2015-07-15 ; Times: 1
+	Date: 2015-07-16 ; Times: 1
+	Date: 2015-07-17 ; Times: 2
+	Date: 2015-07-24 ; Times: 3
+	Date: 2015-07-28 ; Times: 5
+	Date: 2015-07-29 ; Times: 2
+	Date: 2015-07-30 ; Times: 4
+	Date: 2015-07-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "plethodon richmondi" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 1
+	Query: "bufonidae" ; Times: 1
+	Query: "bufo valliceps" ; Times: 1
+	Query: "Arkansas" ; Times: 2
+	Query: "hemidactylium" ; Times: 1
+	Query: "Aneides aeneus" ; Times: 1
+	Query: "country:"Mexico" class:Amphibia" ; Times: 1
+	Query: "cingulatum" ; Times: 1
+	Query: "Hyla femoralis" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "anaxyrus type:specimen mappable:1" ; Times: 1
+	Query: "Hyla andersonii" ; Times: 1
+	Query: "aneides aeneus" ; Times: 2
+	Query: "plethodon kentucki" ; Times: 2
+	Query: "cryptobranchus alleganiensis bishopi" ; Times: 1
+	Query: "Triprion petasatus" ; Times: 1
+	Query: "type:specimen hastypestatus:1" ; Times: 1
+	Query: "plethodon metcalfi" ; Times: 1
+	Query: "country:"Bolivia" class:Amphibia mappable:1" ; Times: 1
+	Query: "Dicamptodon ensatus" ; Times: 1
+	Query: "anaxyrus type:specimen" ; Times: 1
+	Query: "plethodon glutinosus" ; Times: 1
+	Query: "cryptobranchus" ; Times: 1
+	Query: "plethodon welleri" ; Times: 1
+	Query: "plethodon dorsalis" ; Times: 2
+	Query: "Plethodon cinereus" ; Times: 1
+	Query: "cryptobranchus alleganiensis" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 107
+Total number of records retrieved from searches: 1982
+Number of download events that retrieved data from the resource: 122
+Total number of records downloaded: 4564
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 107
+Total number of records retrieved from searches: 1982
+Number of download events that retrieved data from the resource: 122
+Total number of records downloaded: 4564
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
