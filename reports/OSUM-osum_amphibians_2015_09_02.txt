@@ -1,0 +1,140 @@
+Report for Institution Code Ohio State University - Amphibian Division, Columbus, OH (OSUM), Resource Amphibians
+Usage stats for August, 2015, generated on 2015/09/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 32
+Number of records retrieved in searches: 173
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 31
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-01 ; Times: 1
+	Date: 2015-08-06 ; Times: 3
+	Date: 2015-08-07 ; Times: 1
+	Date: 2015-08-08 ; Times: 2
+	Date: 2015-08-10 ; Times: 2
+	Date: 2015-08-12 ; Times: 1
+	Date: 2015-08-14 ; Times: 1
+	Date: 2015-08-16 ; Times: 1
+	Date: 2015-08-18 ; Times: 1
+	Date: 2015-08-21 ; Times: 2
+	Date: 2015-08-22 ; Times: 2
+	Date: 2015-08-25 ; Times: 1
+	Date: 2015-08-26 ; Times: 1
+	Date: 2015-08-27 ; Times: 9
+	Date: 2015-08-28 ; Times: 1
+	Date: 2015-08-30 ; Times: 2
+	Date: 2015-08-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "pseudotriton montanus tennessee" ; Times: 1
+	Query: "osum" ; Times: 1
+	Query: "Cryptobranchus alleganiensis stateprovince:"West Virginia" country:"United States"" ; Times: 1
+	Query: "Cryptobranchus alleganiensis stateprovince:"Virginia" country:"United States"" ; Times: 2
+	Query: "JS 1150" ; Times: 1
+	Query: "pternohyla fodiens" ; Times: 1
+	Query: "cryptobranchus virginia" ; Times: 1
+	Query: "rana pipiens west virginia" ; Times: 2
+	Query: "Eleutherodactylus augusti stateprovince:"Texas"" ; Times: 2
+	Query: "Plethodon richmondi stateprovince:"Kentucky" country:"United States"" ; Times: 1
+	Query: "specificepithet:annulatum genus:Ambystoma" ; Times: 1
+	Query: "Eurycea lucifuga stateprovince:"Indiana"" ; Times: 1
+	Query: "necturus maculosus vermont" ; Times: 1
+	Query: "pseudotriton stateprovince:"West Virginia"" ; Times: 1
+	Query: "necturus virginia" ; Times: 1
+	Query: "stateprovince:"kentucky" specificepithet:porphyriticus genus:gyrinophilus" ; Times: 1
+	Query: "nelson dewey" ; Times: 1
+	Query: "catalognumber: 4725" ; Times: 1
+	Query: "francis marion distance(location,geopoint(32.13840869677251,-81.16973876953125))<100000" ; Times: 1
+	Query: "Desmognathus aeneus stateprovince:"Georgia"" ; Times: 1
+	Query: "necturus delaware" ; Times: 2
+	Query: "Bat Ohio State University" ; Times: 1
+	Query: "hellbender" ; Times: 1
+	Query: "vermont necturus" ; Times: 1
+	Query: "stateprovince:"north carolina" country:"united states" specificepithet:ornata genus:pseudacris" ; Times: 1
+	Query: "Eurycea lucifuga stateprovince:"Ohio"" ; Times: 1
+	Query: "gyrinophilus maryland" ; Times: 1
+	Query: "Plethodon welleri stateprovince:"Virginia"" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 29 (out of 1138 download events in this period)
+Total number of records downloaded: 5655 (out of 5370164 records downloaded for all resources in this period)
+Total number of unique records downloaded: 3779
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: Chile ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: France ; Times: 2
+	Country: United States ; Times: 19
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-01 ; Times: 1
+	Date: 2015-08-03 ; Times: 3
+	Date: 2015-08-13 ; Times: 1
+	Date: 2015-08-17 ; Times: 12
+	Date: 2015-08-19 ; Times: 1
+	Date: 2015-08-21 ; Times: 1
+	Date: 2015-08-24 ; Times: 1
+	Date: 2015-08-25 ; Times: 2
+	Date: 2015-08-26 ; Times: 1
+	Date: 2015-08-28 ; Times: 1
+	Date: 2015-08-29 ; Times: 1
+	Date: 2015-08-30 ; Times: 2
+	Date: 2015-08-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:"New Jersey" country:"United States"" ; Times: 1
+	Query: "Plethodon" ; Times: 1
+	Query: "type:specimen stateprovince:"New York" country:"United States"" ; Times: 1
+	Query: "stateprovince:"New York" country:"United States"" ; Times: 1
+	Query: "stateprovince:"Ohio" class:Amphibia mappable:1" ; Times: 1
+	Query: "country:"panama"" ; Times: 1
+	Query: "Aneides aeneus" ; Times: 1
+	Query: "Leptodactylidae" ; Times: 1
+	Query: "riverside county" ; Times: 1
+	Query: "type:specimen stateprovince:"Maryland" country:"United States"" ; Times: 1
+	Query: "country:"bolivia"" ; Times: 1
+	Query: "stateprovince:"Maryland" country:"United States"" ; Times: 1
+	Query: "Rana boylii" ; Times: 1
+	Query: "stateprovince:"Pennsylvania"" ; Times: 1
+	Query: "type:specimen stateprovince:"New Jersey" country:"United States"" ; Times: 1
+	Query: "stateprovince:"Ontario" class:Amphibia mappable:1" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "specificepithet:kentucki genus:plethodon" ; Times: 1
+	Query: "rana septentrionalis" ; Times: 1
+	Query: "genus:Plethodon" ; Times: 2
+	Query: "stateprovince:"Pennsylvania" class:Amphibia mappable:1" ; Times: 1
+	Query: "type:specimen stateprovince:"Pennsylvania" country:"United States"" ; Times: 1
+	Query: "distance(location,geopoint(-3.5426625084420342,-59.47265803813934))<1104168" ; Times: 1
+	Query: "stateprovince:"New York" class:Amphibia mappable:1" ; Times: 1
+	Query: "specificepithet:punctatus genus:necturus" ; Times: 1
+	Query: "stateprovince:"Pennsylvania" country:"United States"" ; Times: 1
+	Query: "Dendrobatidae" ; Times: 1
+	Query: "Ambystoma gracile" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 32
+Total number of records retrieved from searches: 173
+Number of download events that retrieved data from the resource: 29
+Total number of records downloaded: 5655
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 32
+Total number of records retrieved from searches: 173
+Number of download events that retrieved data from the resource: 29
+Total number of records downloaded: 5655
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
