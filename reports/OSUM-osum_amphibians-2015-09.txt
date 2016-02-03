@@ -1,0 +1,110 @@
+Report for Institution Code OSUM, Resource osum_amphibians
+Usage stats for September 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 25
+Number of records retrieved in searches: 385
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 24
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-30 ; Times: 3
+	Date: 2015-09-06 ; Times: 1
+	Date: 2015-09-11 ; Times: 1
+	Date: 2015-09-29 ; Times: 3
+	Date: 2015-09-02 ; Times: 1
+	Date: 2015-09-01 ; Times: 2
+	Date: 2015-09-18 ; Times: 5
+	Date: 2015-09-08 ; Times: 2
+	Date: 2015-09-22 ; Times: 3
+	Date: 2015-09-20 ; Times: 1
+	Date: 2015-09-09 ; Times: 1
+	Date: 2015-09-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Rana catesbiana" ; Times: 1
+	Query: "Lithobates catesbiana" ; Times: 2
+	Query: "Cryptobranchus stateprovince:&#34;West Virginia&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "osum" ; Times: 2
+	Query: "genus:Cryptobranchus stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "West Virginia aeneus mappable:1" ; Times: 1
+	Query: "eurycea longicauda stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "blackbelly salamander" ; Times: 2
+	Query: "institutioncode:osum" ; Times: 1
+	Query: "ambystoma barbouri" ; Times: 1
+	Query: "stateprovince:&#34;alabama&#34; genus:Hyla" ; Times: 1
+	Query: "Smilisca fodiens" ; Times: 1
+	Query: "Ambystoma stateprovince:&#34;West Virginia&#34;" ; Times: 1
+	Query: "specificepithet:auriculatus genus:desmognathus stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "Pseudotriton stateprovince:&#34;West Virginia&#34;" ; Times: 1
+	Query: "Gyrinophilus porphyriticus duryi" ; Times: 1
+	Query: "stateprovince:&#34;west virginia&#34; genus:cryptobranchus" ; Times: 1
+	Query: "genus:Cryptobranchus stateprovince:&#34;Pennsylvania&#34;" ; Times: 2
+	Query: "Necturus lewisi" ; Times: 2
+	Query: "class:Amphibia county:&#34;Allendale&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 35 (out of 1045 download events in this period)
+Total number of records downloaded: 1659
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 32
+	Country: Unknown ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-15 ; Times: 1
+	Date: 2015-09-24 ; Times: 2
+	Date: 2015-09-25 ; Times: 5
+	Date: 2015-09-11 ; Times: 2
+	Date: 2015-09-04 ; Times: 1
+	Date: 2015-09-03 ; Times: 2
+	Date: 2015-09-28 ; Times: 1
+	Date: 2015-09-19 ; Times: 1
+	Date: 2015-09-18 ; Times: 6
+	Date: 2015-09-29 ; Times: 3
+	Date: 2015-09-22 ; Times: 6
+	Date: 2015-09-21 ; Times: 1
+	Date: 2015-09-20 ; Times: 1
+	Date: 2015-09-30 ; Times: 1
+	Date: 2015-09-08 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Lithobates catesbiana" ; Times: 1
+	Query: "rana catesbeiana" ; Times: 1
+	Query: "Scaphiopus couchii" ; Times: 3
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "Siren lacertina" ; Times: 1
+	Query: "Spea" ; Times: 2
+	Query: "Necturus" ; Times: 1
+	Query: "Rana pipiens" ; Times: 1
+	Query: "lithobates catesbeianus" ; Times: 1
+	Query: "specificepithet:auriculatus genus:desmognathus stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "peru" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "Spea type:specimen" ; Times: 1
+	Query: "pseudacris maculata" ; Times: 1
+	Query: "tigrinum" ; Times: 1
+	Query: "hyla chrysoscelis" ; Times: 1
+	Query: "Rhinella marina" ; Times: 2
+	Query: "Scaphiopus" ; Times: 3
+	Query: "bufo marinus" ; Times: 1
+	Query: "ascaphus" ; Times: 2
+	Query: "gloyd" ; Times: 1
+	Query: "spea bombifrons" ; Times: 1
+	Query: "bufo houstonensis texas" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34; specificepithet:woodhousii genus:Bufo" ; Times: 1
+	Query: "Lithobates clamitans" ; Times: 1
+	Query: "necturus punctatus" ; Times: 1
+	Query: "Eleutherodactylus planirostris" ; Times: 1
+	Query: "genus:Cryptobranchus stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+
+
+End of report.
