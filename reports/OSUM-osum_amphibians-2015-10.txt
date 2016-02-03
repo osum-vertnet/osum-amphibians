@@ -1,0 +1,103 @@
+Report for Institution Code OSUM, Resource osum_amphibians
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 27
+Number of records retrieved in searches: 239
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 27
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 6
+	Date: 2015-10-05 ; Times: 1
+	Date: 2015-10-07 ; Times: 6
+	Date: 2015-10-15 ; Times: 2
+	Date: 2015-10-01 ; Times: 2
+	Date: 2015-10-13 ; Times: 2
+	Date: 2015-10-03 ; Times: 1
+	Date: 2015-10-27 ; Times: 1
+	Date: 2015-10-28 ; Times: 2
+	Date: 2015-10-30 ; Times: 1
+	Date: 2015-10-26 ; Times: 2
+	Date: 2015-10-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:clamitans genus:lithobates county:&#34;chambers&#34; stateprovince:&#34;alabama&#34;" ; Times: 1
+	Query: "genus:gastrophryne stateprovince:&#34;alabama&#34;" ; Times: 1
+	Query: "Ambystoma cingulatum" ; Times: 1
+	Query: "ambystoma barbouri" ; Times: 2
+	Query: "cryptobranchus alabama" ; Times: 1
+	Query: "Ambystoma annulatum" ; Times: 1
+	Query: "specificepithet:cinerea genus:hyla stateprovince:&#34;alabama&#34;" ; Times: 1
+	Query: "genus:Rana county:&#34;Scotland&#34;" ; Times: 2
+	Query: "genus:bufo stateprovince:&#34;alabama&#34;" ; Times: 1
+	Query: "flavissimus specificepithet:montanus genus:Pseudotriton" ; Times: 1
+	Query: "specificepithet:sphenocephala genus:rana stateprovince:&#34;alabama&#34;" ; Times: 1
+	Query: "Aneides aeneus Georgia" ; Times: 2
+	Query: "catalognumber:2835" ; Times: 1
+	Query: "Cryptobranchus" ; Times: 1
+	Query: "class:Amphibia county:&#34;Columbia&#34; stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:barbouri genus:Ambystoma" ; Times: 1
+	Query: "Ambystoma bishopi" ; Times: 1
+	Query: "hellbender" ; Times: 1
+	Query: "cryptobranchus" ; Times: 1
+	Query: "Ambystoma barbouri" ; Times: 1
+	Query: "Gyrinophilus county:&#34;Smyth&#34; stateprovince:&#34;Virginia&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:woodhousii genus:bufo stateprovince:&#34;alabama&#34;" ; Times: 1
+	Query: "genus:ambystoma stateprovince:&#34;alabama&#34;" ; Times: 1
+	Query: "class:Amphibia institutioncode:OSUM" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 23 (out of 823 download events in this period)
+Total number of records downloaded: 1177
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 20
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-05 ; Times: 3
+	Date: 2015-10-07 ; Times: 1
+	Date: 2015-10-13 ; Times: 2
+	Date: 2015-10-03 ; Times: 1
+	Date: 2015-10-02 ; Times: 3
+	Date: 2015-10-09 ; Times: 1
+	Date: 2015-10-08 ; Times: 1
+	Date: 2015-10-19 ; Times: 1
+	Date: 2015-10-27 ; Times: 3
+	Date: 2015-10-26 ; Times: 1
+	Date: 2015-10-23 ; Times: 2
+	Date: 2015-10-22 ; Times: 1
+	Date: 2015-10-21 ; Times: 2
+	Date: 2015-10-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Ambystoma bishopi" ; Times: 1
+	Query: "amphiuma means" ; Times: 1
+	Query: "Monmouth New Jersey" ; Times: 1
+	Query: "aeneus" ; Times: 1
+	Query: "cryptobranchus" ; Times: 1
+	Query: "schencki specificepithet:ruber genus:Pseudotriton" ; Times: 1
+	Query: "Ambystoma cingulatum" ; Times: 1
+	Query: "ambystoma barbouri" ; Times: 1
+	Query: "xenopus laevis" ; Times: 1
+	Query: "lithobates catesbeianus" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "(Rana pipiens) canada mappable:1" ; Times: 1
+	Query: "Eleutherodactylus planirostris" ; Times: 1
+	Query: "phaeognathus" ; Times: 1
+	Query: "Desmognathus aeneus" ; Times: 2
+	Query: "plethodon cinereus" ; Times: 3
+	Query: "stereochilus marginatus" ; Times: 1
+	Query: "class:Amphibia county:&#34;Tishomingo&#34; stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "flavissimus specificepithet:montanus genus:Pseudotriton" ; Times: 1
+
+
+End of report.
