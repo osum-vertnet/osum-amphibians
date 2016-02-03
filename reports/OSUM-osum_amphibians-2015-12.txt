@@ -1,0 +1,96 @@
+Report for Institution Code OSUM, Resource osum_amphibians
+Usage stats for December 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 32
+Number of records retrieved in searches: 484
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 32
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-14 ; Times: 10
+	Date: 2015-12-02 ; Times: 1
+	Date: 2015-12-01 ; Times: 3
+	Date: 2015-12-26 ; Times: 2
+	Date: 2015-12-06 ; Times: 1
+	Date: 2015-12-21 ; Times: 6
+	Date: 2015-12-22 ; Times: 1
+	Date: 2015-12-30 ; Times: 1
+	Date: 2015-12-17 ; Times: 1
+	Date: 2015-12-25 ; Times: 3
+	Date: 2015-12-24 ; Times: 1
+	Date: 2015-12-13 ; Times: 1
+	Date: 2015-12-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "ambystoma tigrinum (Alabama OR ALABAMA OR AL OR Al)" ; Times: 1
+	Query: "genus:cryptobranchus stateprovince:&#34;ohio&#34;" ; Times: 5
+	Query: "genus:necturus stateprovince:&#34;ohio&#34; (Premble OR Montgomery OR Hamilton OR Clinton OR Clermont OR Brown OR Butler OR Greene OR Highland)" ; Times: 1
+	Query: "genus:eurycea stateprovince:&#34;ohio&#34; (Premble OR Montgomery OR Hamilton OR Clinton OR Clermont OR Brown OR Butler OR Greene OR Highland) AND (NOT bislineata NOT cirrigera) mappable:1" ; Times: 1
+	Query: "genus:eurycea stateprovince:&#34;ohio&#34; (Premble OR Montgomery OR Hamilton OR Clinton OR Clermont OR Brown OR Butler OR Greene OR Highland) AND (NOT bislineata)" ; Times: 1
+	Query: "genus:Rana specificepithet:areolata" ; Times: 1
+	Query: "specificepithet:lucifuga genus:eurycea stateprovince:&#34;ohio&#34; (Premble OR Montgomery OR Hamilton OR Clinton OR Clermont OR Brown OR Butler OR Greene OR Highland) AND (NOT bislineata NOT cirrigera) mappable:1" ; Times: 1
+	Query: "tigrinum ohio washington" ; Times: 1
+	Query: "tigrinum ohio washington county" ; Times: 1
+	Query: "Rana catesbeianus" ; Times: 1
+	Query: "plethodon vandykei stateprovince:&#34;washington&#34;" ; Times: 1
+	Query: "genus:pseudotriton stateprovince:&#34;ohio&#34; (Premble OR Montgomery OR Hamilton OR Clinton OR Clermont OR Brown OR Butler OR Greene OR Highland) AND (NOT bislineata NOT cirrigera) mappable:1" ; Times: 1
+	Query: "catalognumber:1017" ; Times: 3
+	Query: "Ambystoma bishopi" ; Times: 1
+	Query: "genus:hemidactylium stateprovince:&#34;ohio&#34; (Premble OR Montgomery OR Hamilton OR Clinton OR Clermont OR Brown OR Butler OR Greene OR Highland) AND (NOT bislineata NOT cirrigera) mappable:1" ; Times: 1
+	Query: "hellbender" ; Times: 1
+	Query: "genus:Necturus stateprovince:&#34;Tennessee&#34;" ; Times: 2
+	Query: "Plethodon vandykei" ; Times: 2
+	Query: "class:amphibia distance(location,geopoint(34.03672867489511,-80.83259582519531))&lt;16021" ; Times: 1
+	Query: "genus:cryptobranchus stateprovince:&#34;ohio&#34; (Premble OR Montgomery OR Hamilton OR Clinton OR Clermont OR Brown OR Butler OR Greene OR Highland)" ; Times: 1
+	Query: "class:Amphibia county:&#34;Montgomery&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "tigrinum ohio" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 23 (out of 889 download events in this period)
+Total number of records downloaded: 1290
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 21
+	Country: Unknown ; Times: 1
+	Country: Uruguay ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-09 ; Times: 2
+	Date: 2015-12-02 ; Times: 1
+	Date: 2015-12-01 ; Times: 7
+	Date: 2015-12-23 ; Times: 1
+	Date: 2015-12-17 ; Times: 5
+	Date: 2015-12-10 ; Times: 2
+	Date: 2015-12-11 ; Times: 3
+	Date: 2015-12-29 ; Times: 1
+	Date: 2015-12-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Gyrinophilus porphyriticus" ; Times: 5
+	Query: "Bufo boreas" ; Times: 1
+	Query: "Hyla regilla" ; Times: 1
+	Query: "Rana aurora" ; Times: 1
+	Query: "Cuba" ; Times: 1
+	Query: "Pseudobranchus" ; Times: 1
+	Query: "gyrinophilus porphyriticus" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "ambystoma tigrinum" ; Times: 1
+	Query: "Desmognathus (West Virginia) mappable:1" ; Times: 1
+	Query: "lithobates catesbeianus" ; Times: 1
+	Query: "Cryptobranchus (West Virginia)" ; Times: 1
+	Query: "Pseudotriton (West Virginia)" ; Times: 1
+	Query: "Eurycea (West Virginia) mappable:1" ; Times: 1
+	Query: "quintana roo" ; Times: 1
+	Query: "scaphiopus" ; Times: 1
+	Query: "spea" ; Times: 1
+	Query: "Gyrinophilus (West Virginia)" ; Times: 1
+	Query: "Pseudacris regilla" ; Times: 1
+
+
+End of report.
