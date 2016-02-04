@@ -1,0 +1,67 @@
+Report for Institution Code OSUM, Resource osum_amphibians
+Usage stats for January 2016, generated on 2016/02/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 14
+Number of records retrieved in searches: 65
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-23 ; Times: 1
+	Date: 2016-01-20 ; Times: 4
+	Date: 2016-01-07 ; Times: 1
+	Date: 2016-01-05 ; Times: 1
+	Date: 2016-01-19 ; Times: 2
+	Date: 2016-01-17 ; Times: 1
+	Date: 2016-01-16 ; Times: 1
+	Date: 2016-01-14 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Cryptobranchus stateprovince:&#34;kentucky&#34;" ; Times: 2
+	Query: "hellbender" ; Times: 1
+	Query: "genus:cryptobranchus stateprovince:&#34;kentucky&#34;" ; Times: 1
+	Query: "genus:cryptobranchus stateprovince:&#34;ohio&#34;" ; Times: 2
+	Query: "Desmognathus folkertsi" ; Times: 1
+	Query: "class:amphibia stateprovince:&#34;oklahoma&#34; distance(location,geopoint(35.496456056584165,-97.5091552734375))&lt;21302" ; Times: 1
+	Query: "bloomsburg class:amphibia county:&#34;columbia&#34; stateprovince:&#34;pennsylvania&#34;" ; Times: 1
+	Query: "county:&#34;Hunterdon&#34; (Eurycea)" ; Times: 1
+	Query: "Pseudotriton montanus stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "type:specimen genus:cryptobranchus stateprovince:&#34;pennsylvania&#34;" ; Times: 1
+	Query: "Plethodon kentucki" ; Times: 1
+	Query: "ambystoma texanum louisiana" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 507 download events in this period)
+Total number of records downloaded: 509
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-04 ; Times: 2
+	Date: 2016-01-06 ; Times: 1
+	Date: 2016-01-21 ; Times: 1
+	Date: 2016-01-26 ; Times: 1
+	Date: 2016-01-27 ; Times: 1
+	Date: 2016-01-13 ; Times: 1
+	Date: 2016-01-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Triprion petasatus" ; Times: 1
+	Query: "boylii" ; Times: 1
+	Query: "Ambystoma laterale" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 2
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "Lynx lynx" ; Times: 1
+	Query: "Taricha stateprovince:&#34;California&#34;" ; Times: 1
+
+
+End of report.
