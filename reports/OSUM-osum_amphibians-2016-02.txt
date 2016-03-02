@@ -1,0 +1,88 @@
+Report for Institution Code OSUM, Resource osum_amphibians
+Usage stats for February 2016, generated on 2016/03/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 20
+Number of records retrieved in searches: 168
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 18
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-22 ; Times: 1
+	Date: 2016-02-16 ; Times: 1
+	Date: 2016-02-18 ; Times: 1
+	Date: 2016-02-23 ; Times: 4
+	Date: 2016-02-08 ; Times: 1
+	Date: 2016-02-21 ; Times: 1
+	Date: 2016-02-25 ; Times: 1
+	Date: 2016-02-24 ; Times: 4
+	Date: 2016-02-12 ; Times: 1
+	Date: 2016-02-03 ; Times: 2
+	Date: 2016-02-05 ; Times: 1
+	Date: 2016-02-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Notophthalmus viridescens tennessee" ; Times: 2
+	Query: "hellbender" ; Times: 1
+	Query: "Dendrobates praccatus" ; Times: 1
+	Query: "Hyla andersonii stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Ambystoma cingulatum (Florida)" ; Times: 1
+	Query: "genus:eurycea class:amphibia county:&#34;columbia&#34; stateprovince:&#34;pennsylvania&#34;" ; Times: 1
+	Query: "Hemidactylium scutatum specificepithet:scutatum genus:Hemidactylium family:Plethodontidae order:Urodela" ; Times: 1
+	Query: "desmognathus folkertsi" ; Times: 1
+	Query: "Mammoth Cave stateprovince:&#34;Kentucky&#34;" ; Times: 1
+	Query: "ambystoma barbouri" ; Times: 1
+	Query: "genus:Eurycea county:&#34;Williamson&#34;" ; Times: 2
+	Query: "hellbender institutioncode:OSUM" ; Times: 1
+	Query: "203090" ; Times: 1
+	Query: "pseudacris ornata stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "cascade caverns" ; Times: 1
+	Query: "ohio type:specimen institutioncode:OSUM" ; Times: 1
+	Query: "mammoth cave" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 512 download events in this period)
+Total number of records downloaded: 300
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 18
+	Country: Spain ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-23 ; Times: 6
+	Date: 2016-02-22 ; Times: 2
+	Date: 2016-02-18 ; Times: 1
+	Date: 2016-02-14 ; Times: 4
+	Date: 2016-02-25 ; Times: 1
+	Date: 2016-02-03 ; Times: 1
+	Date: 2016-02-07 ; Times: 1
+	Date: 2016-02-26 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Plethodon specificepithet:kentucki" ; Times: 1
+	Query: "genus:Scaphiopus specificepithet:holbrookii" ; Times: 1
+	Query: "notophthalmus viridescens mappable:1" ; Times: 1
+	Query: "Pseudacris ornata" ; Times: 1
+	Query: "Desmognathus auriculatus" ; Times: 1
+	Query: "class:amphibia mappable:1 stateprovince:Washington" ; Times: 1
+	Query: "Ambystoma cingulatum" ; Times: 2
+	Query: "Pseudacris nigrita" ; Times: 1
+	Query: "eurycea quadridigitata stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "county:&#34;Navajo&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "class:amphibia mappable:1 stateprovince:Nevada" ; Times: 1
+	Query: "Ambystoma macrodactylum mappable:1" ; Times: 1
+	Query: "taricha torosa" ; Times: 1
+	Query: "genus:Notophthalmus stateprovince:north carolina" ; Times: 2
+	Query: "Hyla andersonii" ; Times: 1
+	Query: "class:amphibia stateprovince:&#34;alaska&#34; mappable:1" ; Times: 1
+	Query: "class:amphibia mappable:1 stateprovince:California" ; Times: 3
+	Query: "Ambystoma gracile" ; Times: 1
+
+
+End of report.
