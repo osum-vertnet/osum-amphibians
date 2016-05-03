@@ -1,0 +1,103 @@
+Report for Institution Code OSUM, Resource osum_amphibians
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 41
+Number of records retrieved in searches: 427
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 38
+	Country: Unknown ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-29 ; Times: 1
+	Date: 2016-04-22 ; Times: 1
+	Date: 2016-04-11 ; Times: 1
+	Date: 2016-04-25 ; Times: 3
+	Date: 2016-04-15 ; Times: 1
+	Date: 2016-04-20 ; Times: 2
+	Date: 2016-04-03 ; Times: 2
+	Date: 2016-04-28 ; Times: 10
+	Date: 2016-04-07 ; Times: 2
+	Date: 2016-04-06 ; Times: 1
+	Date: 2016-04-19 ; Times: 1
+	Date: 2016-04-04 ; Times: 2
+	Date: 2016-04-21 ; Times: 1
+	Date: 2016-04-18 ; Times: 1
+	Date: 2016-04-09 ; Times: 1
+	Date: 2016-04-17 ; Times: 1
+	Date: 2016-04-10 ; Times: 2
+	Date: 2016-04-23 ; Times: 1
+	Date: 2016-04-12 ; Times: 4
+	Date: 2016-04-13 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:annulatum genus:ambystoma" ; Times: 2
+	Query: "Gastrophryne carolinensis stateprovince:&#34;South Carolina&#34;" ; Times: 3
+	Query: "Cryptobranchus alleganiensis stateprovince:&#34;Ohio&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Pseudacris stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-110.467516))&lt;15000" ; Times: 1
+	Query: "class:Amphibia county:&#34;Perry&#34; stateprovince:&#34;Ohio&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "eurycea spelaeus" ; Times: 7
+	Query: "class:Amphibia county:&#34;Harrison&#34; stateprovince:&#34;Ohio&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Necturus Maculosus institutioncode:OSUM" ; Times: 2
+	Query: "class:Amphibia county:&#34;Morgan&#34; stateprovince:&#34;Ohio&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "20587" ; Times: 1
+	Query: "Rana catesbeiana stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Necturus specificepithet:lewisi" ; Times: 1
+	Query: "cryptobranchus bishopi" ; Times: 2
+	Query: "specificepithet:auriculatus genus:Desmognathus stateprovince:&#34;Georgia&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "institutioncode:OSUM" ; Times: 1
+	Query: "triturus carnifex" ; Times: 1
+	Query: "EURYCEA GUTTOLINEATA ALABAMA" ; Times: 1
+	Query: "acris gryllus alabama" ; Times: 1
+	Query: "Pseudacris brachyphona Virginia" ; Times: 1
+	Query: "hellbender" ; Times: 3
+	Query: "county:&#34;Tuscarawas&#34; stateprovince:&#34;Ohio&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "necturus pennsylvania" ; Times: 1
+	Query: "ambystoma maculatum distance(location,geopoint(34.88593094075317,-80.068359375))&lt;100000" ; Times: 1
+	Query: "class:Amphibia county:&#34;Tuscarawas&#34; stateprovince:&#34;Ohio&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "cryptobranchus alleganiensis pennsylvania" ; Times: 1
+	Query: "genus:Eurycea specificepithet:aquatica" ; Times: 1
+	Query: "Lithobates catesbeiana type:specimen" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 1312 download events in this period)
+Total number of records downloaded: 6196
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-12 ; Times: 3
+	Date: 2016-04-05 ; Times: 3
+	Date: 2016-04-17 ; Times: 1
+	Date: 2016-04-25 ; Times: 1
+	Date: 2016-04-11 ; Times: 1
+	Date: 2016-04-27 ; Times: 1
+	Date: 2016-04-06 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "R. catesbeiana" ; Times: 1
+	Query: "Aneides aeneus Virginia" ; Times: 1
+	Query: "Plethodon metcalfi mappable:1" ; Times: 1
+	Query: "Hyla arborea" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "class:amphibia stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "genus:Ambystoma opacum" ; Times: 1
+	Query: "barbouri" ; Times: 1
+	Query: "ambystoma" ; Times: 1
+	Query: "class:Amphibia country:&#34;United States&#34;" ; Times: 1
+	Query: "Ascaphus truei" ; Times: 1
+	Query: "genus:Smilisca specificepithet:baudinii" ; Times: 1
+	Query: "Lithobates catesbeiana type:specimen" ; Times: 1
+
+
+End of report.
