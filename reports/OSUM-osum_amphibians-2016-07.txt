@@ -1,0 +1,77 @@
+Report for Institution Code OSUM, Resource osum_amphibians
+Usage stats for July 2016, generated on 2016/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 30
+Number of records retrieved in searches: 671
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 25
+	Country: Unknown ; Times: 2
+	Country: Germany ; Times: 1
+	Country: France ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-07-24 ; Times: 2
+	Date: 2016-07-11 ; Times: 1
+	Date: 2016-07-26 ; Times: 3
+	Date: 2016-07-27 ; Times: 3
+	Date: 2016-07-06 ; Times: 1
+	Date: 2016-07-07 ; Times: 2
+	Date: 2016-07-22 ; Times: 3
+	Date: 2016-07-23 ; Times: 4
+	Date: 2016-07-18 ; Times: 2
+	Date: 2016-07-08 ; Times: 1
+	Date: 2016-07-09 ; Times: 3
+	Date: 2016-07-28 ; Times: 2
+	Date: 2016-07-13 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Lorain County" ; Times: 2
+	Query: "ambystoma tigrinum stateprovince:&#34;South carolina&#34;" ; Times: 2
+	Query: "osum" ; Times: 2
+	Query: "cryptobranchus brokenstraw" ; Times: 2
+	Query: "class:Amphibia county:&#34;Horry&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:barbouri" ; Times: 1
+	Query: "gbifdatasetid:3d84f407-8a76-473a-b8c8-54a58d5f581b" ; Times: 3
+	Query: "Cryptobranchus institutioncode:OSUM" ; Times: 1
+	Query: "cryptobranchus pennsylvania" ; Times: 1
+	Query: "cryptobranchus irvine" ; Times: 2
+	Query: "catalognumber:1215" ; Times: 1
+	Query: "specificepithet:bislineata county:&#34;columbia&#34; stateprovince:&#34;pennsylvania&#34;" ; Times: 2
+	Query: "ambystoma annulatum" ; Times: 1
+	Query: "3d84f407-8a76-473a-b8c8-54a58d5f581b" ; Times: 1
+	Query: "Salamandrina" ; Times: 1
+	Query: "type:specimen catalognumber:3956" ; Times: 1
+	Query: "cryptobranchus yellow" ; Times: 5
+	Query: "class:Amphibia county:&#34;Allendale&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 1219 download events in this period)
+Total number of records downloaded: 314
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-07-28 ; Times: 1
+	Date: 2016-07-08 ; Times: 1
+	Date: 2016-07-20 ; Times: 1
+	Date: 2016-07-22 ; Times: 2
+	Date: 2016-07-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Cryptobranchus" ; Times: 1
+	Query: "anaxyrus punctatus" ; Times: 1
+	Query: "hyla arenicolor" ; Times: 1
+	Query: "ambystoma annulatum" ; Times: 1
+	Query: "Taricha granulosa" ; Times: 1
+	Query: "Rana clamitans" ; Times: 1
+
+
+End of report.
