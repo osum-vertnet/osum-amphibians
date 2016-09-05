@@ -1,0 +1,87 @@
+Report for Institution Code OSUM, Resource osum_amphibians
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 15
+Number of records retrieved in searches: 95
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Unknown ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-11 ; Times: 1
+	Date: 2016-08-12 ; Times: 2
+	Date: 2016-08-15 ; Times: 1
+	Date: 2016-08-25 ; Times: 1
+	Date: 2016-08-27 ; Times: 1
+	Date: 2016-08-23 ; Times: 1
+	Date: 2016-08-31 ; Times: 2
+	Date: 2016-08-30 ; Times: 1
+	Date: 2016-08-28 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Ambystoma barbouri mappable:1" ; Times: 1
+	Query: "catalognumber:1726" ; Times: 1
+	Query: "EURYCEA stateprovince:&#34;Rhode Island&#34;" ; Times: 1
+	Query: "Cryptobranchus stateprovince:&#34;West Virginia&#34;" ; Times: 1
+	Query: "Ambystoma barbouri" ; Times: 2
+	Query: "&#34;ambystoma barbouri&#34;" ; Times: 1
+	Query: "Plethodon glutinosus (Ohio)" ; Times: 1
+	Query: "stereochilus" ; Times: 1
+	Query: "Amphibia stateprovince:&#34;Louisiana&#34; institutioncode:OSUM" ; Times: 1
+	Query: "PIPIENS stateprovince:&#34;Rhode Island&#34;" ; Times: 1
+	Query: "desmognathus auriculatus north carolina" ; Times: 1
+	Query: "genus:Bufo order:Anura stateprovince:&#34;New Hampshire&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Missouri typhlotriton" ; Times: 1
+	Query: "DESMOGNATHUS stateprovince:&#34;Rhode Island&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 924 download events in this period)
+Total number of records downloaded: 1597
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-09 ; Times: 1
+	Date: 2016-08-29 ; Times: 1
+	Date: 2016-08-28 ; Times: 2
+	Date: 2016-08-18 ; Times: 1
+	Date: 2016-08-24 ; Times: 1
+	Date: 2016-08-21 ; Times: 3
+	Date: 2016-08-20 ; Times: 1
+	Date: 2016-08-23 ; Times: 1
+	Date: 2016-08-22 ; Times: 6
+	Date: 2016-08-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "plethodon shenandoah" ; Times: 1
+	Query: "ambystoma" ; Times: 1
+	Query: "Notophthalmus viridescens country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "stateprovince:&#34;West Virginia&#34;" ; Times: 1
+	Query: "Rana boylii" ; Times: 1
+	Query: "Hemidactylium scutatum" ; Times: 1
+	Query: "Anaxyrus americanus country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "&#34;ambystoma barbouri&#34;" ; Times: 1
+	Query: "Bufo canorus" ; Times: 1
+	Query: "type:specimen (anaxyrus)" ; Times: 1
+	Query: "Plethodon glutinosus (Ohio)" ; Times: 1
+	Query: "Lithobates clamitans country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "Necturus maculosus country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "bufo" ; Times: 1
+	Query: "Ambystoma tigrinum tigrinum AND (NOT mavortium) mappable:1" ; Times: 1
+	Query: "Plethodon cinereus country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "Rhyacotriton olympicus" ; Times: 1
+	Query: "type:specimen (anaxyrus bufo)" ; Times: 1
+	Query: "ambystoma tigrinum" ; Times: 1
+
+
+End of report.
