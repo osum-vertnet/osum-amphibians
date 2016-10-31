@@ -1,0 +1,55 @@
+Report for Institution Code OSUM, Resource osum_amphibians
+Usage stats for September 2016, generated on 2016/10/31
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 5
+Number of records retrieved in searches: 104
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Germany ; Times: 1
+	Country: Portugal ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-08 ; Times: 1
+	Date: 2016-09-01 ; Times: 3
+	Date: 2016-09-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Rana catesbeiana  1" ; Times: 1
+	Query: "Plethodon vandykei" ; Times: 1
+	Query: "genus:cryptobranchus stateprovince:&#34;Alabama&#34;" ; Times: 2
+	Query: "Salamandrina" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 811 download events in this period)
+Total number of records downloaded: 545
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-11 ; Times: 1
+	Date: 2016-09-09 ; Times: 7
+	Date: 2016-09-14 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "rana pipiens" ; Times: 1
+	Query: "Bufo hemiophrys" ; Times: 1
+	Query: "anaxyrus punctatus" ; Times: 1
+	Query: "rana boylii" ; Times: 1
+	Query: "hyla arenicolor" ; Times: 1
+	Query: "Rana sierrae" ; Times: 1
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "bufo woodhousii" ; Times: 1
+	Query: "ambystoma tigrinum" ; Times: 1
+	Query: "specificepithet:viridescens genus:Notophthalmus stateprovince:&#34;Louisiana&#34;" ; Times: 1
+
+
+End of report.
