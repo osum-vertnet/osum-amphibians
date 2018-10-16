@@ -1,0 +1,177 @@
+Report for Institution Code OSUM, Resource osum_amphibians
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 80
+Number of records retrieved in searches: 2226
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 67
+	Country: Brazil ; Times: 1
+	Country: Spain ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-06 ; Times: 12
+	Date: 2018-05-15 ; Times: 3
+	Date: 2018-05-17 ; Times: 2
+	Date: 2018-05-05 ; Times: 1
+	Date: 2018-05-10 ; Times: 2
+	Date: 2018-05-18 ; Times: 1
+	Date: 2018-05-09 ; Times: 3
+	Date: 2018-05-29 ; Times: 1
+	Date: 2018-05-16 ; Times: 15
+	Date: 2018-05-20 ; Times: 1
+	Date: 2018-05-22 ; Times: 1
+	Date: 2018-05-23 ; Times: 19
+	Date: 2018-05-24 ; Times: 14
+	Date: 2018-05-25 ; Times: 2
+	Date: 2018-05-26 ; Times: 1
+	Date: 2018-05-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Cryptobranchus stateprovince:&#34;West Virginia&#34;" ; Times: 1
+	Query: "specificepithet:pipiens genus:Rana institutioncode:OSUM" ; Times: 3
+	Query: "specificepithet:cinerea genus:Hyla institutioncode:OSUM" ; Times: 3
+	Query: "genus:Cryptobranchus stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "specificepithet:holbrookii genus:Scaphiopus institutioncode:OSUM" ; Times: 3
+	Query: "Ambystoma cingulatum" ; Times: 2
+	Query: "Ambystoma barbouri" ; Times: 7
+	Query: "specificepithet:crepitans genus:Acris institutioncode:OSUM" ; Times: 6
+	Query: "Ambystoma annulatum" ; Times: 6
+	Query: "class:Amphibia county:&#34;Nueces&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "aneides aeneus preston" ; Times: 1
+	Query: "specificepithet:montanus genus:pseudotriton stateprovince:&#34;mississippi&#34;" ; Times: 1
+	Query: "specificepithet:richmondi genus:plethodon stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "specificepithet:marina genus:Rhinella institutioncode:OSUM" ; Times: 3
+	Query: "specificepithet:arenicolor genus:Hyla institutioncode:OSUM" ; Times: 3
+	Query: "Triturus carnifex" ; Times: 1
+	Query: "bufo houstonensis" ; Times: 1
+	Query: "specificepithet:couchii genus:Scaphiopus institutioncode:OSUM" ; Times: 3
+	Query: "specificepithet:olivacea genus:Gastrophryne institutioncode:OSUM" ; Times: 3
+	Query: "specificepithet:punctatus genus:Anaxyrus institutioncode:OSUM" ; Times: 4
+	Query: "specificepithet:truei genus:Ascaphus institutioncode:OSUM" ; Times: 4
+	Query: "specificepithet:ruber genus:Scinax institutioncode:OSUM" ; Times: 3
+	Query: "specificepithet:virgatipes genus:Rana institutioncode:OSUM" ; Times: 3
+	Query: "virginia eurycea lucifuga" ; Times: 1
+	Query: "specificepithet:planirostris genus:Eleutherodactylus institutioncode:OSUM" ; Times: 3
+	Query: "Ambystoma bishopi" ; Times: 1
+	Query: "specificepithet:venulosus genus:Trachycephalus institutioncode:OSUM" ; Times: 3
+	Query: "DM 7774" ; Times: 2
+	Query: "specificepithet:montanus genus:pseudotriton (&#34;alleghany&#34; OR &#34;pulaski&#34; OR &#34;carroll&#34; OR &#34;wythe&#34; OR &#34;smyth&#34; OR &#34;grayson&#34; OR &#34;washington&#34; OR &#34;russell&#34; OR &#34;bland&#34; OR &#34;tazewell&#34; OR &#34;botetourt&#34; OR &#34;bedford&#34; OR &#34;franklin&#34; OR &#34;henry&#34; OR &#34;patrick&#34; OR &#34;floyd&#34; OR &#34;montgomery&#34; OR &#34;roanoke&#34; OR &#34;craig&#34; OR &#34;giles&#34; )" ; Times: 1
+	Query: "family:hylidae county:&#34;pima&#34;" ; Times: 1
+	Query: "Scinax nasicus mappable:1" ; Times: 1
+	Query: "genus:Cryptobranchus stateprovince:&#34;Alabama&#34;" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 77 (out of 1178 download events in this period)
+Total number of records downloaded: 2116
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 3
+	Country: Spain ; Times: 56
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-06 ; Times: 11
+	Date: 2018-05-07 ; Times: 8
+	Date: 2018-05-17 ; Times: 1
+	Date: 2018-05-16 ; Times: 5
+	Date: 2018-05-02 ; Times: 2
+	Date: 2018-05-10 ; Times: 4
+	Date: 2018-05-13 ; Times: 7
+	Date: 2018-05-01 ; Times: 1
+	Date: 2018-05-19 ; Times: 8
+	Date: 2018-05-28 ; Times: 4
+	Date: 2018-05-03 ; Times: 1
+	Date: 2018-05-20 ; Times: 3
+	Date: 2018-05-21 ; Times: 5
+	Date: 2018-05-22 ; Times: 4
+	Date: 2018-05-23 ; Times: 3
+	Date: 2018-05-24 ; Times: 1
+	Date: 2018-05-25 ; Times: 4
+	Date: 2018-05-26 ; Times: 4
+	Date: 2018-05-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen class:amphibia county:&#34;Oconee&#34; stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "Ambystoma jeffersonianum" ; Times: 1
+	Query: "Eurycea lucifuga" ; Times: 1
+	Query: "Eurycea longicauda" ; Times: 1
+	Query: "desmognathus auriculatus" ; Times: 1
+	Query: "vntype:specimen class:Amphibia haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Ambystoma cingulatum" ; Times: 1
+	Query: "Batrachoseps attenuatus" ; Times: 1
+	Query: "class:Amphibia county:&#34;Giles&#34; stateprovince:&#34;Virginia&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Ambystoma barbouri" ; Times: 3
+	Query: "Plethodon shenandoah" ; Times: 1
+	Query: "Rana sphenocephala" ; Times: 1
+	Query: "Ambystoma talpoideum" ; Times: 1
+	Query: "Ambystoma annulatum" ; Times: 2
+	Query: "Desmognathus marmoratus" ; Times: 1
+	Query: "vntype:specimen class:amphibia county:&#34;Pickens&#34; stateprovince:&#34;south carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Aneides aeneus" ; Times: 1
+	Query: "Bufo houstonensis" ; Times: 1
+	Query: "class:Amphibia county:&#34;Nueces&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Plethodon mississippi" ; Times: 1
+	Query: "Eurycea bislineata" ; Times: 1
+	Query: "Desmognathus aeneus" ; Times: 1
+	Query: "Desmognathus imitator" ; Times: 1
+	Query: "Plethodon kentucki" ; Times: 1
+	Query: "Amphiuma means" ; Times: 1
+	Query: "Bufo punctatus" ; Times: 1
+	Query: "Plethodon caddoensis" ; Times: 1
+	Query: "vntype:specimen class:amphibia county:&#34;Oconee&#34; stateprovince:&#34;south carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Plethodon yonahlossee" ; Times: 1
+	Query: "Ambystoma texanum" ; Times: 1
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "specificepithet:punctatus genus:Anaxyrus" ; Times: 1
+	Query: "Rana palustris" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "Plethodon wehrlei" ; Times: 1
+	Query: "Eurycea cirrigera" ; Times: 1
+	Query: "Gyrinophilus porphyriticus" ; Times: 1
+	Query: "Necturus maculosus" ; Times: 1
+	Query: "L. catesbeianus" ; Times: 1
+	Query: "Spea bombifrons" ; Times: 1
+	Query: "Lithobates catesbeiana" ; Times: 1
+	Query: "Plethodon glutinosus" ; Times: 1
+	Query: "Plethodon welleri" ; Times: 1
+	Query: "Plethodon grobmani" ; Times: 2
+	Query: "Plethodon jordani" ; Times: 1
+	Query: "Necturus punctatus" ; Times: 1
+	Query: "Desmognathus quadramaculatus" ; Times: 1
+	Query: "Plethodon dorsalis" ; Times: 1
+	Query: "bufo houstonensis" ; Times: 1
+	Query: "Necturus alabamensis" ; Times: 1
+	Query: "Dicamptodon ensatus" ; Times: 1
+	Query: "Desmognathus monticola" ; Times: 1
+	Query: "Plethodon shermani" ; Times: 1
+	Query: "Plethodon richmondi" ; Times: 1
+	Query: "Desmognathus welteri" ; Times: 1
+	Query: "Eurycea quadridigitata" ; Times: 1
+	Query: "Desmognathus auriculatus" ; Times: 1
+	Query: "vntype:specimen class:amphibia county:&#34;Pickens&#34; stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "Plethodon virginia" ; Times: 1
+	Query: "Ambystoma laterale" ; Times: 1
+	Query: "Desmognathus brimleyorum" ; Times: 1
+	Query: "Plethodon cinereus" ; Times: 1
+	Query: "Desmognathus wrighti" ; Times: 1
+	Query: "Plethodon vandykei" ; Times: 1
+	Query: "Hemidactylium scutatum" ; Times: 1
+	Query: "cryptobranchus" ; Times: 1
+	Query: "specificepithet:punctatus genus:Bufo" ; Times: 1
+	Query: "Eurycea wilderae" ; Times: 1
+	Query: "class:amphibia country:&#34;Panama&#34;" ; Times: 1
+	Query: "dicamptodon ensatus" ; Times: 1
+	Query: "Ambystoma gracile" ; Times: 1
+	Query: "Ambystoma maculatum" ; Times: 1
+
+
+End of report.
