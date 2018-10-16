@@ -1,0 +1,117 @@
+Report for Institution Code OSUM, Resource osum_amphibians
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 38
+Number of records retrieved in searches: 733
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 35
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-14 ; Times: 7
+	Date: 2018-02-15 ; Times: 3
+	Date: 2018-02-16 ; Times: 3
+	Date: 2018-02-17 ; Times: 1
+	Date: 2018-02-10 ; Times: 1
+	Date: 2018-02-11 ; Times: 1
+	Date: 2018-02-27 ; Times: 1
+	Date: 2018-02-20 ; Times: 1
+	Date: 2018-02-18 ; Times: 1
+	Date: 2018-02-19 ; Times: 1
+	Date: 2018-02-04 ; Times: 5
+	Date: 2018-02-22 ; Times: 3
+	Date: 2018-02-21 ; Times: 3
+	Date: 2018-02-03 ; Times: 1
+	Date: 2018-02-01 ; Times: 1
+	Date: 2018-02-23 ; Times: 3
+	Date: 2018-02-24 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "ambystoma bishopi" ; Times: 4
+	Query: "Smilisca fodiens sonora" ; Times: 1
+	Query: "OSUM" ; Times: 1
+	Query: "Eurycea bislineata stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "ambystoma opacum ohio" ; Times: 1
+	Query: "ambystoma barbouri" ; Times: 1
+	Query: "Pseudacris brachyphona Ohio" ; Times: 2
+	Query: "Necturus mississippi" ; Times: 1
+	Query: "specificepithet:catesbeianus genus:lithobates lifestage:adult hassex:1 hasmass:1" ; Times: 1
+	Query: "osum" ; Times: 1
+	Query: "catalognumber:2201" ; Times: 1
+	Query: "institutioncode:OSUM plethodon ainsworthi" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "specificepithet:montanus genus:Pseudotriton stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "pseudacris feriarum maryland" ; Times: 2
+	Query: "Pseudotriton montanus Ohio Jackson County" ; Times: 1
+	Query: "institutioncode:OSUM sus" ; Times: 1
+	Query: "catalognumber:434" ; Times: 1
+	Query: "pseudacris triseriata maryland" ; Times: 1
+	Query: "institutioncode:OSUM" ; Times: 1
+	Query: "institutioncode:OSUM lithobates" ; Times: 1
+	Query: "pseudacris feriarum washington maryland" ; Times: 1
+	Query: "Eurycea bislineata stateprovince:&#34;Tennessee&#34; mappable:1" ; Times: 2
+	Query: "institutioncode:OSUM anaxyrus" ; Times: 1
+	Query: "catalognumber:4152" ; Times: 1
+	Query: "class:Amphibia county:&#34;Bradford&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Ambystoma barbouri" ; Times: 1
+	Query: "specificepithet:montanus genus:pseudotriton county:&#34;wake&#34; stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "institutioncode:OSUM holbrookii" ; Times: 1
+	Query: "Newton 1868" ; Times: 1
+	Query: "specificepithet:montanus genus:pseudotriton stateprovince:&#34;tennessee&#34;" ; Times: 1
+	Query: "Amphibians Montgomery county Tennessee" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 23 (out of 1892 download events in this period)
+Total number of records downloaded: 1201
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 19
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-15 ; Times: 1
+	Date: 2018-02-16 ; Times: 2
+	Date: 2018-02-27 ; Times: 3
+	Date: 2018-02-12 ; Times: 2
+	Date: 2018-02-28 ; Times: 1
+	Date: 2018-02-23 ; Times: 1
+	Date: 2018-02-09 ; Times: 2
+	Date: 2018-02-03 ; Times: 6
+	Date: 2018-02-02 ; Times: 3
+	Date: 2018-02-01 ; Times: 1
+	Date: 2018-02-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "plethodon richmondi" ; Times: 1
+	Query: "Gyrinophilus porphyriticus" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 1
+	Query: "Window" ; Times: 1
+	Query: "taricha granulosa" ; Times: 1
+	Query: "notophthalmus viridescens" ; Times: 1
+	Query: "ambystoma macrodactylum" ; Times: 1
+	Query: "ambystoma gracile" ; Times: 1
+	Query: "ambystoma jeffersonianum" ; Times: 1
+	Query: "plethodon" ; Times: 1
+	Query: "specificepithet:valliceps stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "window" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "eurycea bislineata" ; Times: 1
+	Query: "pseudacris ornata" ; Times: 1
+	Query: "Hemidactylium scutatum" ; Times: 1
+	Query: "ambystoma texanum" ; Times: 1
+	Query: "Taricha torosa torosa stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "plethodon glutinosus" ; Times: 1
+	Query: "rana areolata" ; Times: 1
+	Query: "plethodon jordani" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+	Query: "Eleutherodactylus planirostris" ; Times: 1
+
+
+End of report.
