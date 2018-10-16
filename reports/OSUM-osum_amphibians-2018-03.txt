@@ -1,0 +1,89 @@
+Report for Institution Code OSUM, Resource osum_amphibians
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 62
+Number of records retrieved in searches: 967
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 59
+	Country: India ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-08 ; Times: 1
+	Date: 2018-03-06 ; Times: 2
+	Date: 2018-03-31 ; Times: 1
+	Date: 2018-03-07 ; Times: 3
+	Date: 2018-03-02 ; Times: 4
+	Date: 2018-03-14 ; Times: 1
+	Date: 2018-03-12 ; Times: 1
+	Date: 2018-03-01 ; Times: 1
+	Date: 2018-03-15 ; Times: 1
+	Date: 2018-03-03 ; Times: 2
+	Date: 2018-03-05 ; Times: 4
+	Date: 2018-03-28 ; Times: 3
+	Date: 2018-03-29 ; Times: 1
+	Date: 2018-03-26 ; Times: 12
+	Date: 2018-03-09 ; Times: 3
+	Date: 2018-03-27 ; Times: 8
+	Date: 2018-03-18 ; Times: 2
+	Date: 2018-03-22 ; Times: 3
+	Date: 2018-03-23 ; Times: 1
+	Date: 2018-03-20 ; Times: 6
+	Date: 2018-03-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:lewisi genus:Necturus stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "pseudacris anne arundel" ; Times: 1
+	Query: "institutioncode:osum" ; Times: 3
+	Query: "genus:Pseudacris specificepithet:ornata" ; Times: 7
+	Query: "genus:cryptobranchus stateprovince:&#34;kentucky&#34;" ; Times: 1
+	Query: "pseudotriton montanus" ; Times: 3
+	Query: "specificepithet:andersonii genus:Hyla stateprovince:&#34;North Carolina&#34;" ; Times: 2
+	Query: "(Lithobates catesbeianus)" ; Times: 3
+	Query: "genus:Cryptobranchus specificepithet:alleganiensis" ; Times: 5
+	Query: "vntype:specimen order:Anura institutioncode:OSUM" ; Times: 1
+	Query: "class:Amphibia catalognumber:1200" ; Times: 1
+	Query: "Desmognathus folkertsi vntype:specimen" ; Times: 2
+	Query: "cryptobranchus french" ; Times: 1
+	Query: "Triturus carnifex" ; Times: 3
+	Query: "genus:Hyla specificepithet:andersonii" ; Times: 6
+	Query: "genus:Pelobates specificepithet:fuscus" ; Times: 5
+	Query: "genus:Triturus specificepithet:cristatus" ; Times: 2
+	Query: "DM 7774" ; Times: 1
+	Query: "genus:Amphiuma specificepithet:means" ; Times: 2
+	Query: "genus:Triprion specificepithet:petasatus" ; Times: 5
+	Query: "genus:Anaxyrus specificepithet:quercicus" ; Times: 2
+	Query: "genus:Necturus specificepithet:lewisi" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 1284 download events in this period)
+Total number of records downloaded: 2595
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-08 ; Times: 2
+	Date: 2018-03-26 ; Times: 1
+	Date: 2018-03-25 ; Times: 2
+	Date: 2018-03-30 ; Times: 1
+	Date: 2018-03-27 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "israel" ; Times: 1
+	Query: "specificepithet:jordani genus:plethodon AND NOT specificepithet:shermani AND NOT specificepithet:metcalfi AND NOT specificepithet:montanus AND NOT specificepithet:clemsonae AND NOT specificepithet:amplus AND NOT specificepithet:meridianus AND NOT specificepithet:cheoah" ; Times: 1
+	Query: "vntype:specimen order:Anura institutioncode:OSUM" ; Times: 1
+	Query: "specificepithet:shermani genus:plethodon" ; Times: 1
+	Query: "pseudotriton montanus" ; Times: 1
+	Query: "locality:Watauga stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+	Query: "ambystoma texanum" ; Times: 1
+
+
+End of report.
