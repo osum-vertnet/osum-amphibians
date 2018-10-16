@@ -1,0 +1,131 @@
+Report for Institution Code OSUM, Resource osum_amphibians
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 37
+Number of records retrieved in searches: 570
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 37
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-01 ; Times: 1
+	Date: 2018-04-12 ; Times: 4
+	Date: 2018-04-03 ; Times: 2
+	Date: 2018-04-02 ; Times: 2
+	Date: 2018-04-16 ; Times: 1
+	Date: 2018-04-04 ; Times: 7
+	Date: 2018-04-07 ; Times: 1
+	Date: 2018-04-06 ; Times: 1
+	Date: 2018-04-09 ; Times: 1
+	Date: 2018-04-18 ; Times: 5
+	Date: 2018-04-13 ; Times: 1
+	Date: 2018-04-10 ; Times: 1
+	Date: 2018-04-11 ; Times: 2
+	Date: 2018-04-23 ; Times: 1
+	Date: 2018-04-21 ; Times: 3
+	Date: 2018-04-27 ; Times: 2
+	Date: 2018-04-14 ; Times: 1
+	Date: 2018-04-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Amphibia county:&#34;Harris&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "plethodon vandykei" ; Times: 2
+	Query: "Rana grylio" ; Times: 1
+	Query: "wisconsin necturus" ; Times: 2
+	Query: "specificepithet:montanus county:&#34;adams&#34; stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "genus:aneides stateprovince:&#34;west virginia&#34;" ; Times: 1
+	Query: "Opacum specificepithet:Opacum stateprovince:&#34;Ohio&#34;" ; Times: 2
+	Query: "lithobates catesbeianus distance(location,geopoint(30.172761958001654,-97.12713360786438))&lt;277281" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "specificepithet:longicauda genus:eurycea county:&#34;montgomery&#34;" ; Times: 1
+	Query: "Plethodon wehrlei roanoke" ; Times: 1
+	Query: "specificepithet:texanum genus:Ambystoma stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "specificepithet:montanus genus:pseudotriton stateprovince:&#34;north carolina&#34; (&#34;state&#34;)" ; Times: 1
+	Query: "specificepithet:barbouri genus:Ambystoma" ; Times: 1
+	Query: "family:plethodontidae county:&#34;adams&#34; stateprovince:&#34;ohio&#34;" ; Times: 2
+	Query: "Plethodon wehrlei dixie" ; Times: 1
+	Query: "institutioncode:OSUM" ; Times: 2
+	Query: "cryptobranchus French" ; Times: 3
+	Query: "plethodon jordani sevier" ; Times: 1
+	Query: "plethodon vandykei stateprovince:&#34;washington&#34;" ; Times: 1
+	Query: "&#34;gyrinophilus&#34; OR &#34;longicauda&#34; OR &#34;montanus&#34; OR &#34;scutatum&#34; OR &#34;aneides&#34; family:plethodontidae county:&#34;adams&#34; stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "specificepithet:andersonii genus:Hyla stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "specificepithet:dorsalis genus:Plethodon stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "specificepithet:vandykei genus:plethodon" ; Times: 1
+	Query: "genus:aneides county:&#34;adams&#34; stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "genus:Cryptobranchus stateprovince:&#34;Alabama&#34;" ; Times: 2
+	Query: "Necturus punctatus" ; Times: 2
+	Query: "Opacum specificepithet:Opacum county:&#34;Ashtabula&#34; stateprovince:&#34;Ohio&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 39 (out of 1359 download events in this period)
+Total number of records downloaded: 698
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 36
+	Country: Brazil ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-12 ; Times: 1
+	Date: 2018-04-03 ; Times: 2
+	Date: 2018-04-16 ; Times: 2
+	Date: 2018-04-04 ; Times: 1
+	Date: 2018-04-07 ; Times: 1
+	Date: 2018-04-15 ; Times: 1
+	Date: 2018-04-09 ; Times: 1
+	Date: 2018-04-18 ; Times: 1
+	Date: 2018-04-28 ; Times: 2
+	Date: 2018-04-23 ; Times: 11
+	Date: 2018-04-22 ; Times: 6
+	Date: 2018-04-21 ; Times: 1
+	Date: 2018-04-20 ; Times: 3
+	Date: 2018-04-27 ; Times: 1
+	Date: 2018-04-26 ; Times: 2
+	Date: 2018-04-25 ; Times: 1
+	Date: 2018-04-17 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Amphibia county:&#34;Harris&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "distance(location,geopoint(63.87569,-149.21334))&lt;50000" ; Times: 1
+	Query: "Anaxyrus punctatus" ; Times: 1
+	Query: "Scaphiopus couchii" ; Times: 1
+	Query: "Rana sphenocephala" ; Times: 1
+	Query: "Spea bombifrons" ; Times: 1
+	Query: "ambystoma macrodactylum" ; Times: 1
+	Query: "Rana grylio" ; Times: 1
+	Query: "Smilisca baudinii" ; Times: 1
+	Query: "Hyla cinerea" ; Times: 1
+	Query: "scaphiopus couchii" ; Times: 1
+	Query: "Hyla chrysoscelis" ; Times: 1
+	Query: "specificepithet:longicauda genus:Eurycea stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "Pseudacris streckeri" ; Times: 1
+	Query: "Gastrophryne carolinensis" ; Times: 2
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "Rana palustris" ; Times: 1
+	Query: "specificepithet:opacum genus:ambystoma stateprovince:&#34;Virginia&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Gastrophryne olivacea" ; Times: 1
+	Query: "Osteopilus septentrionalis" ; Times: 1
+	Query: "Anaxyrus woodhousii" ; Times: 1
+	Query: "Rana areolata" ; Times: 1
+	Query: "specificepithet:maculatum genus:Ambystoma stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "Rhinella marina" ; Times: 2
+	Query: "plethodon vandykei stateprovince:&#34;washington&#34;" ; Times: 1
+	Query: "&#34;gyrinophilus&#34; OR &#34;longicauda&#34; OR &#34;montanus&#34; OR &#34;scutatum&#34; OR &#34;aneides&#34; family:plethodontidae county:&#34;adams&#34; stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "specificepithet:sylvatica genus:Rana stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "specificepithet:dorsalis genus:Plethodon stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "specificepithet:vandykei genus:plethodon" ; Times: 1
+	Query: "Rana catesbeiana" ; Times: 1
+	Query: "bufo boreas" ; Times: 1
+	Query: "specificepithet:glutinosus genus:Plethodon stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "Plethodon cinereus" ; Times: 2
+	Query: "raccoon" ; Times: 1
+	Query: "Hyla squirella" ; Times: 1
+	Query: "ranA hasmass:1 mappable:1" ; Times: 1
+
+
+End of report.
