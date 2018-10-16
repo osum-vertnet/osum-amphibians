@@ -1,0 +1,119 @@
+Report for Institution Code OSUM, Resource osum_amphibians
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 43
+Number of records retrieved in searches: 259
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 37
+	Country: Unknown ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-18 ; Times: 5
+	Date: 2018-01-08 ; Times: 1
+	Date: 2018-01-09 ; Times: 1
+	Date: 2018-01-28 ; Times: 4
+	Date: 2018-01-29 ; Times: 1
+	Date: 2018-01-11 ; Times: 1
+	Date: 2018-01-03 ; Times: 1
+	Date: 2018-01-12 ; Times: 1
+	Date: 2018-01-15 ; Times: 1
+	Date: 2018-01-21 ; Times: 1
+	Date: 2018-01-17 ; Times: 9
+	Date: 2018-01-07 ; Times: 2
+	Date: 2018-01-16 ; Times: 2
+	Date: 2018-01-25 ; Times: 5
+	Date: 2018-01-31 ; Times: 2
+	Date: 2018-01-05 ; Times: 4
+	Date: 2018-01-10 ; Times: 1
+	Date: 2018-01-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "county:&#34;allen&#34; stateprovince:&#34;ohio&#34;" ; Times: 2
+	Query: "genus:Pseudacris county:&#34;Dickson&#34; stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "Rana pipiens stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "Ambystoma cingulatum" ; Times: 1
+	Query: "desmognathus folkertsi vntype:specimen" ; Times: 1
+	Query: "catalognumber:1290" ; Times: 1
+	Query: "county:&#34;Hancock&#34; stateprovince:&#34;Ohio&#34;" ; Times: 8
+	Query: "Ambystoma annulatum" ; Times: 1
+	Query: "genus:Necturus stateprovince:&#34;Ohio&#34; (Washington OR Meigs OR Athens OR Hocking OR Vinton)" ; Times: 1
+	Query: "catalognumber:4208" ; Times: 1
+	Query: "Rana pipiens locality:Illinois" ; Times: 1
+	Query: "county:&#34;Allen&#34; stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "Rana pipiens county:&#34;Lake&#34; stateprovince:&#34;Indiana&#34;" ; Times: 1
+	Query: "allen county ohio" ; Times: 1
+	Query: "202688" ; Times: 1
+	Query: "Rana pipiens locality:Indiana" ; Times: 1
+	Query: "Necturus lewisi" ; Times: 5
+	Query: "class:Amphibia stateprovince:&#34;Louisiana&#34; institutioncode:OSUM" ; Times: 1
+	Query: "genus:Aneides stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "201193" ; Times: 1
+	Query: "Triprion petasatus" ; Times: 1
+	Query: "stateprovince:&#34;Virginia&#34; Cryptobranchus alleganiensis" ; Times: 1
+	Query: "specificepithet:talpoideum genus:ambystoma stateprovince:&#34;north carolina&#34; (cherokee OR clay OR macon)" ; Times: 1
+	Query: "Rana pipiens institutioncode:OSUM" ; Times: 1
+	Query: "stateprovince:&#34;north carolina&#34; Pseudacris ornata" ; Times: 1
+	Query: "catalognumber:4458" ; Times: 2
+	Query: "Ambystoma barbouri" ; Times: 1
+	Query: "Bantam AND Reptilia OR Amphibia" ; Times: 1
+	Query: "distance(location,geopoint(44.027031547,-72.14464222925))&lt;17187" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 27 (out of 1398 download events in this period)
+Total number of records downloaded: 981
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 26
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-31 ; Times: 1
+	Date: 2018-01-30 ; Times: 1
+	Date: 2018-01-28 ; Times: 2
+	Date: 2018-01-29 ; Times: 3
+	Date: 2018-01-25 ; Times: 9
+	Date: 2018-01-13 ; Times: 2
+	Date: 2018-01-12 ; Times: 1
+	Date: 2018-01-15 ; Times: 1
+	Date: 2018-01-14 ; Times: 2
+	Date: 2018-01-17 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Batrachoseps attenuatus" ; Times: 1
+	Query: "county:&#34;allen&#34; stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "Rana boylii" ; Times: 2
+	Query: "Rana pipiens stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "Ambystoma cingulatum" ; Times: 1
+	Query: "Ambystoma jeffersonianum" ; Times: 1
+	Query: "county:&#34;Hancock&#34; stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "Ambystoma annulatum" ; Times: 1
+	Query: "county:&#34;Allen&#34; stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "county:&#34;Putnam&#34; stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "scinax nasicus" ; Times: 1
+	Query: "specificepithet:sylvatica genus:Rana stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Rana pipiens vntype:specimen" ; Times: 1
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "Ambystoma texanum" ; Times: 1
+	Query: "specificepithet:maculatum genus:Ambystoma stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Rana aurora" ; Times: 1
+	Query: "Rana pipiens institutioncode:OSUM" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "Ambystoma maculatum" ; Times: 1
+	Query: "specificepithet:aeneus genus:Aneides" ; Times: 1
+	Query: "Dicamptodon ensatus" ; Times: 1
+	Query: "stateprovince:mississippi class:amphibia" ; Times: 1
+	Query: "genus:Smilisca country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Ambystoma barbouri" ; Times: 1
+	Query: "Ambystoma talpoideum" ; Times: 1
+
+
+End of report.
