@@ -1,0 +1,94 @@
+Report for Institution Code OSUM, Resource osum_amphibians
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 32
+Number of records retrieved in searches: 799
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 32
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-09 ; Times: 1
+	Date: 2018-06-15 ; Times: 10
+	Date: 2018-06-07 ; Times: 1
+	Date: 2018-06-12 ; Times: 1
+	Date: 2018-06-03 ; Times: 5
+	Date: 2018-06-28 ; Times: 1
+	Date: 2018-06-01 ; Times: 1
+	Date: 2018-06-24 ; Times: 1
+	Date: 2018-06-25 ; Times: 1
+	Date: 2018-06-29 ; Times: 3
+	Date: 2018-06-27 ; Times: 1
+	Date: 2018-06-30 ; Times: 2
+	Date: 2018-06-02 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Dendrobates institutioncode:OSUM" ; Times: 3
+	Query: "ambystoma pelee (ontario erie)" ; Times: 1
+	Query: "institutioncode:osum" ; Times: 3
+	Query: "Eurycea lucifuga Adams (Ohio )" ; Times: 1
+	Query: "order:Anura institutioncode:OSUM" ; Times: 1
+	Query: "Pseudotriton montanus Adams (Ohio )" ; Times: 1
+	Query: "Eurycea lucifuga (Ohio)" ; Times: 1
+	Query: "ambystoma (ontario erie pelee)" ; Times: 2
+	Query: "specificepithet:boylii genus:rana institutioncode:OSUM" ; Times: 1
+	Query: "family:Dendrobatidae institutioncode:OSUM" ; Times: 2
+	Query: "specificepithet:femoralis genus:hyla stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "Aneides aeneus Adams (Ohio )" ; Times: 1
+	Query: "Cryptobranchus Missouri" ; Times: 1
+	Query: "cryptobranchus pennsylvania" ; Times: 1
+	Query: "institutioncode:OSUM" ; Times: 2
+	Query: "cryptobranchus french creek" ; Times: 1
+	Query: "Dendrobates praccatus" ; Times: 1
+	Query: "institutioncode:OSUM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Ambystoma barbouri" ; Times: 2
+	Query: "genus:hyla county:&#34;hamilton&#34; stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "Stereochilus marginatus" ; Times: 1
+	Query: "genus:Eurycea specificepithet:aquatica" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 24 (out of 1169 download events in this period)
+Total number of records downloaded: 174
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: Spain ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 4
+	Date: 2018-06-06 ; Times: 2
+	Date: 2018-06-05 ; Times: 4
+	Date: 2018-06-04 ; Times: 1
+	Date: 2018-06-03 ; Times: 7
+	Date: 2018-06-02 ; Times: 3
+	Date: 2018-06-01 ; Times: 1
+	Date: 2018-06-25 ; Times: 1
+	Date: 2018-06-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Pseudotriton ruber" ; Times: 1
+	Query: "Pseudotriton montanus" ; Times: 1
+	Query: "Rhyacotriton olympicus" ; Times: 2
+	Query: "Triturus cristatus" ; Times: 1
+	Query: "valliceps" ; Times: 1
+	Query: "Peaks of Otter" ; Times: 1
+	Query: "Taricha granulosa" ; Times: 3
+	Query: "ambystoma (ontario pelee)" ; Times: 1
+	Query: "Taricha granulosa granulosa" ; Times: 1
+	Query: "Ambystoma barbouri" ; Times: 1
+	Query: "Salamandra salamandra" ; Times: 1
+	Query: "Taricha torosa" ; Times: 1
+	Query: "locality:Cave stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Hyla regilla" ; Times: 1
+	Query: "taricha granulosa" ; Times: 3
+	Query: "specificepithet:boylii genus:rana stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Siren lacertina" ; Times: 1
+	Query: "Stereochilus marginatus" ; Times: 2
+
+
+End of report.
