@@ -1,0 +1,94 @@
+Report for Institution Code OSUM, Resource osum_amphibians
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 30
+Number of records retrieved in searches: 159
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 28
+	Country: Brazil ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-10 ; Times: 1
+	Date: 2018-08-25 ; Times: 1
+	Date: 2018-08-24 ; Times: 1
+	Date: 2018-08-23 ; Times: 1
+	Date: 2018-08-08 ; Times: 2
+	Date: 2018-08-19 ; Times: 4
+	Date: 2018-08-04 ; Times: 2
+	Date: 2018-08-06 ; Times: 16
+	Date: 2018-08-29 ; Times: 1
+	Date: 2018-08-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "necturus lewisi" ; Times: 5
+	Query: "specificepithet:andersonii genus:hyla stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "Indiana necturus" ; Times: 8
+	Query: "bufo alvarius" ; Times: 2
+	Query: "specificepithet:maculosus genus:Necturus stateprovince:&#34;Indiana&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:tigrinum genus:Ambystoma stateprovince:&#34;Ohio&#34; year &gt;= 1960 year &lt;= 2018" ; Times: 1
+	Query: "Scaphiopus holbrookii distance(location,geopoint(37.28475225570989,-80.5356936071471))&lt;205072" ; Times: 1
+	Query: "specificepithet:americanus genus:Anaxyrus stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "specificepithet:texanum genus:Ambystoma stateprovince:&#34;Ohio&#34; year &gt;= 1960 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:aquatica genus:eurycea" ; Times: 1
+	Query: "specificepithet:tigrinum genus:Ambystoma stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "scaphiopus holbrooki" ; Times: 1
+	Query: "Hemidactylium scutatum mappable:1" ; Times: 1
+	Query: "country:&#34;Panama&#34; institutioncode:OSUM" ; Times: 1
+	Query: "college station distance(location,geopoint(31.73827307406639,-99.48570042440912))&lt;100000" ; Times: 1
+	Query: "specificepithet:americanus genus:Anaxyrus stateprovince:&#34;Kentucky&#34;" ; Times: 1
+	Query: "specificepithet:americanus genus:Anaxyrus stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "genus:Gyrinophilus stateprovince:&#34;Kentucky&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 1416 download events in this period)
+Total number of records downloaded: 679
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: Unknown ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-11 ; Times: 1
+	Date: 2018-08-06 ; Times: 3
+	Date: 2018-08-27 ; Times: 1
+	Date: 2018-08-25 ; Times: 1
+	Date: 2018-08-23 ; Times: 4
+	Date: 2018-08-19 ; Times: 4
+	Date: 2018-08-14 ; Times: 1
+	Date: 2018-08-15 ; Times: 1
+	Date: 2018-08-01 ; Times: 1
+	Date: 2018-08-02 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:wilderae genus:eurycea" ; Times: 1
+	Query: "specificepithet:marginatus genus:Stereochilus" ; Times: 1
+	Query: "specificepithet:cirrigera genus:eurycea" ; Times: 1
+	Query: "specificepithet:americanus genus:Anaxyrus stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "Scaphiopus couchii" ; Times: 2
+	Query: "rhinella marina" ; Times: 1
+	Query: "specificepithet:americanus genus:Anaxyrus stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "class:amphibia county:&#34;Giles&#34; stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "Hyla arenicolor" ; Times: 1
+	Query: "specificepithet:aquatica genus:eurycea" ; Times: 1
+	Query: "specificepithet:ruber genus:Scinax" ; Times: 1
+	Query: "genus:Plethodon county:&#34;Giles&#34; stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "catesbeiana" ; Times: 1
+	Query: "specificepithet:regilla" ; Times: 1
+	Query: "family:Plethodontidae county:&#34;Giles&#34; stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "alvarius" ; Times: 1
+	Query: "specificepithet:americanus genus:Anaxyrus stateprovince:&#34;Kentucky&#34;" ; Times: 1
+	Query: "eurycea bislineata" ; Times: 1
+	Query: "specificepithet:tarsius genus:Phyllomedusa" ; Times: 1
+
+
+End of report.
