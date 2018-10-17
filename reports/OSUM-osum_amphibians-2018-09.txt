@@ -1,0 +1,83 @@
+Report for Institution Code OSUM, Resource osum_amphibians
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 22
+Number of records retrieved in searches: 608
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 19
+	Country: Unknown ; Times: 1
+	Country: Costa Rica ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-14 ; Times: 5
+	Date: 2018-09-10 ; Times: 2
+	Date: 2018-09-25 ; Times: 1
+	Date: 2018-09-13 ; Times: 1
+	Date: 2018-09-06 ; Times: 3
+	Date: 2018-09-07 ; Times: 2
+	Date: 2018-09-16 ; Times: 1
+	Date: 2018-09-20 ; Times: 2
+	Date: 2018-09-08 ; Times: 2
+	Date: 2018-09-28 ; Times: 2
+	Date: 2018-09-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:longicauda melanopleura genus:Eurycea" ; Times: 1
+	Query: "genus:Pelobates specificepithet:fuscus" ; Times: 1
+	Query: "stateprovince:&#34;ohio&#34; (salamander)" ; Times: 2
+	Query: "specificepithet:barbouri genus:Ambystoma" ; Times: 1
+	Query: "phaeognathus" ; Times: 1
+	Query: "genus:Hemidactylium institutioncode:OSUM" ; Times: 1
+	Query: "institutioncode:OSUM" ; Times: 4
+	Query: "specificepithet:lewisi genus:necturus" ; Times: 1
+	Query: "stateprovince:&#34;ohio&#34; (Cryptobranchus)" ; Times: 3
+	Query: "specificepithet:aquatica genus:Eurycea" ; Times: 1
+	Query: "ambystoma annulatum" ; Times: 2
+	Query: "hellbender cryptobranchidae" ; Times: 2
+	Query: "triturus carnifex" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 846 download events in this period)
+Total number of records downloaded: 5372
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: Spain ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-24 ; Times: 1
+	Date: 2018-09-25 ; Times: 1
+	Date: 2018-09-27 ; Times: 1
+	Date: 2018-09-06 ; Times: 4
+	Date: 2018-09-07 ; Times: 5
+	Date: 2018-09-04 ; Times: 1
+	Date: 2018-09-19 ; Times: 2
+	Date: 2018-09-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "racoon" ; Times: 1
+	Query: "specificepithet:cinereus genus:plethodon" ; Times: 1
+	Query: "amphiuma means" ; Times: 1
+	Query: "Smilisca baudinii" ; Times: 1
+	Query: "eleutherodactylus" ; Times: 1
+	Query: "rana boylii" ; Times: 1
+	Query: "specificepithet:barbouri genus:Ambystoma" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "plethodon dorsalis" ; Times: 1
+	Query: "institutioncode:OSUM" ; Times: 1
+	Query: "Eleutherodactylus planirostris" ; Times: 1
+	Query: "specificepithet:aquatica genus:Eurycea" ; Times: 1
+	Query: "cryptobranchus alleganiensis" ; Times: 1
+	Query: "specificepithet:longicauda melanopleura genus:Eurycea" ; Times: 1
+	Query: "plethodon dorsalis (Tennessee OR Georgia)" ; Times: 1
+	Query: "specificepithet:dorsalis genus:plethodon" ; Times: 1
+
+
+End of report.
