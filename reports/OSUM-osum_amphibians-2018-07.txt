@@ -1,0 +1,101 @@
+Report for Institution Code OSUM, Resource osum_amphibians
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 53
+Number of records retrieved in searches: 239
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 47
+	Country: Unknown ; Times: 5
+	Country: Austria ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-13 ; Times: 6
+	Date: 2018-07-12 ; Times: 1
+	Date: 2018-07-10 ; Times: 2
+	Date: 2018-07-17 ; Times: 3
+	Date: 2018-07-09 ; Times: 3
+	Date: 2018-07-27 ; Times: 1
+	Date: 2018-07-22 ; Times: 2
+	Date: 2018-07-05 ; Times: 3
+	Date: 2018-07-06 ; Times: 4
+	Date: 2018-07-18 ; Times: 4
+	Date: 2018-07-26 ; Times: 4
+	Date: 2018-07-01 ; Times: 1
+	Date: 2018-07-03 ; Times: 3
+	Date: 2018-07-21 ; Times: 1
+	Date: 2018-07-31 ; Times: 3
+	Date: 2018-07-07 ; Times: 3
+	Date: 2018-07-25 ; Times: 1
+	Date: 2018-07-20 ; Times: 4
+	Date: 2018-07-16 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:cryptobranchus stateprovince:&#34;ohio&#34;" ; Times: 3
+	Query: "genus:gyrinophilus county:&#34;smyth&#34; stateprovince:&#34;virginia&#34;" ; Times: 1
+	Query: "lifestage:adult ambystoma annulatum" ; Times: 2
+	Query: "fieldnumber:pep" ; Times: 1
+	Query: "specificepithet:fowleri genus:Bufo stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "specificepithet:annulatum genus:Ambystoma" ; Times: 1
+	Query: "plethodon wehrlei new york" ; Times: 2
+	Query: "ambystoma annulatum" ; Times: 12
+	Query: "specificepithet:cinereus genus:Plethodon county:&#34;Athens&#34; stateprovince:&#34;Ohio&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:hyla county:&#34;smyth&#34;" ; Times: 2
+	Query: "institutioncode:OSUM" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:cingulatum" ; Times: 3
+	Query: "Rana areolata" ; Times: 4
+	Query: "cryptobranchus french creek" ; Times: 1
+	Query: "locality:Cave stateprovince:&#34;North Carolina&#34;" ; Times: 2
+	Query: "specificepithet:catesbeianus genus:Lithobates stateprovince:&#34;New York&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "ambystoma annulatum adult" ; Times: 1
+	Query: "specificepithet:ruber genus:pseudotriton county:&#34;washington&#34;" ; Times: 1
+	Query: "Ambystoma barbouri" ; Times: 1
+	Query: "201475" ; Times: 1
+	Query: "genus:Notophthalmus stateprovince:north carolina" ; Times: 1
+	Query: "genus:cryptobranchus stateprovince:&#34;pennsylvania&#34;" ; Times: 1
+	Query: "genus:Eurycea specificepithet:aquatica" ; Times: 9
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 977 download events in this period)
+Total number of records downloaded: 416
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Unknown ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: France ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-11 ; Times: 2
+	Date: 2018-07-17 ; Times: 1
+	Date: 2018-07-16 ; Times: 1
+	Date: 2018-07-15 ; Times: 1
+	Date: 2018-07-14 ; Times: 1
+	Date: 2018-07-31 ; Times: 3
+	Date: 2018-07-06 ; Times: 3
+	Date: 2018-07-18 ; Times: 1
+	Date: 2018-07-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Ambystoma (egg)" ; Times: 1
+	Query: "plethodon richmondi" ; Times: 1
+	Query: "rana boylii" ; Times: 1
+	Query: "rana pretiosa" ; Times: 1
+	Query: "Scinax ruber" ; Times: 1
+	Query: "lithobates catesbeianus" ; Times: 1
+	Query: "plethodon dorsalis" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 1
+	Query: "specificepithet:lacertina genus:Siren" ; Times: 1
+	Query: "rana sierrae" ; Times: 1
+	Query: "ambystoma annulatum" ; Times: 1
+	Query: "aneides aeneus" ; Times: 1
+	Query: "specificepithet:marina genus:Rhinella" ; Times: 1
+	Query: "Hypsiboas geographicus" ; Times: 1
+
+
+End of report.
