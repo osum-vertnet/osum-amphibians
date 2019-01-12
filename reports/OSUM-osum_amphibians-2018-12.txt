@@ -1,0 +1,74 @@
+Report for Institution Code OSUM, Resource osum_amphibians
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 27
+Number of records retrieved in searches: 126
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Switzerland ; Times: 1
+	Country: United States ; Times: 24
+	Country: India ; Times: 1
+	Country: Denmark ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-20 ; Times: 8
+	Date: 2018-12-21 ; Times: 10
+	Date: 2018-12-22 ; Times: 1
+	Date: 2018-12-27 ; Times: 2
+	Date: 2018-12-28 ; Times: 1
+	Date: 2018-12-04 ; Times: 4
+	Date: 2018-12-13 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Ambystoma bishopi" ; Times: 6
+	Query: "texanum washington county oh" ; Times: 1
+	Query: "genus:Hemidactylium stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "ambystoma cingulatum" ; Times: 1
+	Query: "Ambystoma cingulatum" ; Times: 2
+	Query: "Cryptobranchidae institutioncode:OSUM" ; Times: 1
+	Query: "genus:Plethodon stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "genus:Pelobates specificepithet:fuscus" ; Times: 1
+	Query: "specificepithet:tigrinum genus:Ambystoma stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "salamandrina" ; Times: 1
+	Query: "texanum washington county ohio" ; Times: 1
+	Query: "Bufo houstonensis" ; Times: 8
+	Query: "specificepithet:tigrinum genus:Ambystoma stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:tigrinum genus:Ambystoma stateprovince:&#34;Ohio&#34; year &gt;= 1920 year &lt;= 2018" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 809 download events in this period)
+Total number of records downloaded: 1061
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: India ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-22 ; Times: 3
+	Date: 2018-12-19 ; Times: 1
+	Date: 2018-12-08 ; Times: 1
+	Date: 2018-12-15 ; Times: 1
+	Date: 2018-12-07 ; Times: 1
+	Date: 2018-12-05 ; Times: 3
+	Date: 2018-12-10 ; Times: 1
+	Date: 2018-12-12 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Smilisca (Pternohyla) fodiens" ; Times: 2
+	Query: "class:Amphibia stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "lynx lynx" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "Plethodon cinereus" ; Times: 3
+	Query: "desmognathus wrighti" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 2
+	Query: "ambystoma macrodactylum" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Colorado&#34;" ; Times: 1
+
+
+End of report.
