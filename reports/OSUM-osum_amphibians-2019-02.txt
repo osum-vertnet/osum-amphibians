@@ -1,0 +1,88 @@
+Report for Institution Code OSUM, Resource osum_amphibians
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 36
+Number of records retrieved in searches: 579
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 34
+	Country: Belgium ; Times: 1
+	Country: Portugal ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-12 ; Times: 1
+	Date: 2019-02-18 ; Times: 1
+	Date: 2019-02-04 ; Times: 1
+	Date: 2019-02-05 ; Times: 1
+	Date: 2019-02-13 ; Times: 1
+	Date: 2019-02-11 ; Times: 3
+	Date: 2019-02-26 ; Times: 1
+	Date: 2019-02-27 ; Times: 1
+	Date: 2019-02-20 ; Times: 8
+	Date: 2019-02-21 ; Times: 2
+	Date: 2019-02-17 ; Times: 1
+	Date: 2019-02-16 ; Times: 1
+	Date: 2019-02-19 ; Times: 5
+	Date: 2019-02-06 ; Times: 1
+	Date: 2019-02-09 ; Times: 6
+	Date: 2019-02-22 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Eurycea county:&#34;Williamson&#34; stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "plethodon vandykei" ; Times: 1
+	Query: "maryland osum amphibia" ; Times: 1
+	Query: "specificepithet:cingulatum genus:Ambystoma" ; Times: 3
+	Query: "genus:Eurycea county:&#34;Williamson&#34;" ; Times: 2
+	Query: "lithobates clamitans missouri" ; Times: 1
+	Query: "genus:Gastrophryne stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "acris crepitans maryland osum" ; Times: 1
+	Query: "Amphibia Mississippi tishomingo" ; Times: 1
+	Query: "genus:Eurycea county:&#34;Columbia&#34; stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "Aneides kentucky" ; Times: 1
+	Query: "genus:gastrophryne stateprovince:&#34;tennessee&#34;" ; Times: 2
+	Query: "Salamandra salamandra" ; Times: 1
+	Query: "maryland osum" ; Times: 4
+	Query: "genus:Ambystoma specificepithet:barbouri" ; Times: 1
+	Query: "institutioncode:OSUM" ; Times: 2
+	Query: "brachyphona" ; Times: 1
+	Query: "family:plethodontidae order:urodela" ; Times: 2
+	Query: "pseudacris feriarum mississippi" ; Times: 1
+	Query: "osum maryland" ; Times: 1
+	Query: "locality:Boyers county:&#34;Butler&#34; stateprovince:&#34;pennsylvania&#34;" ; Times: 1
+	Query: "cryptobranchus west virginia" ; Times: 1
+	Query: "genus:Scaphiopus stateprovince:&#34;Tennessee&#34;" ; Times: 3
+	Query: "202429" ; Times: 1
+	Query: "osum amphibia maryland" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 1227 download events in this period)
+Total number of records downloaded: 283
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-04 ; Times: 1
+	Date: 2019-02-27 ; Times: 2
+	Date: 2019-02-22 ; Times: 1
+	Date: 2019-02-16 ; Times: 3
+	Date: 2019-02-09 ; Times: 1
+	Date: 2019-02-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "desmognathus imitator" ; Times: 1
+	Query: "specificepithet:holbrookii genus:Scaphiopus stateprovince:&#34;Virginia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:barbouri" ; Times: 2
+	Query: "genus:Ambystoma specificepithet:texanum" ; Times: 1
+	Query: "brachyphona" ; Times: 1
+	Query: "specificepithet:cingulatum genus:Ambystoma" ; Times: 1
+	Query: "Desmognathus aeneus" ; Times: 1
+	Query: "specificepithet:maculatum genus:Ambystoma haslifestage:1" ; Times: 1
+
+
+End of report.
