@@ -1,0 +1,69 @@
+Report for Institution Code OSUM, Resource osum_amphibians
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 24
+Number of records retrieved in searches: 915
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 23
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-20 ; Times: 2
+	Date: 2019-05-23 ; Times: 2
+	Date: 2019-05-31 ; Times: 1
+	Date: 2019-05-22 ; Times: 2
+	Date: 2019-05-28 ; Times: 2
+	Date: 2019-05-18 ; Times: 2
+	Date: 2019-05-10 ; Times: 7
+	Date: 2019-05-11 ; Times: 1
+	Date: 2019-05-14 ; Times: 3
+	Date: 2019-05-15 ; Times: 1
+	Date: 2019-05-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "lithobates catesbeianus rana" ; Times: 1
+	Query: "Tuskegee amphibia" ; Times: 2
+	Query: "plethodon vandykei" ; Times: 1
+	Query: "202942" ; Times: 1
+	Query: "genus:ambystoma stateprovince:&#34;north dakota&#34;" ; Times: 1
+	Query: "Lithobates catesbeianus rana" ; Times: 2
+	Query: "class:Amphibia county:&#34;Columbia&#34; stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "institutioncode:OSUM" ; Times: 1
+	Query: "genus:cryptobranchus stateprovince:&#34;pennsylvania&#34;" ; Times: 1
+	Query: "specificepithet:catesbeianus genus:lithobates stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "Rana lima" ; Times: 2
+	Query: "Bufo houstonensis" ; Times: 8
+	Query: "genus:Ambystoma specificepithet:cingulatum" ; Times: 1
+	Query: "202492" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 940 download events in this period)
+Total number of records downloaded: 339
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-10 ; Times: 1
+	Date: 2019-05-11 ; Times: 1
+	Date: 2019-05-27 ; Times: 1
+	Date: 2019-05-15 ; Times: 2
+	Date: 2019-05-22 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:crepitans genus:Acris" ; Times: 2
+	Query: "Salamandra" ; Times: 1
+	Query: "genus:Cryptobranchus stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:cingulatum" ; Times: 1
+	Query: "Bufo houstonensis" ; Times: 1
+	Query: "genus:cryptobranchus stateprovince:&#34;pennsylvania&#34;" ; Times: 2
+
+
+End of report.
