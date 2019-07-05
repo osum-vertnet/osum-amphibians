@@ -1,0 +1,100 @@
+Report for Institution Code OSUM, Resource osum_amphibians
+Usage stats for June 2019, generated on 2019/07/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 51
+Number of records retrieved in searches: 470
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 51
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-21 ; Times: 1
+	Date: 2019-06-19 ; Times: 2
+	Date: 2019-06-26 ; Times: 1
+	Date: 2019-06-09 ; Times: 2
+	Date: 2019-06-06 ; Times: 1
+	Date: 2019-06-14 ; Times: 1
+	Date: 2019-06-05 ; Times: 10
+	Date: 2019-06-11 ; Times: 15
+	Date: 2019-06-10 ; Times: 10
+	Date: 2019-06-13 ; Times: 2
+	Date: 2019-06-28 ; Times: 1
+	Date: 2019-06-24 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Hemidactylium specificepithet:scutatum" ; Times: 1
+	Query: "stateprovince:&#34;California&#34; (Lithobates catesbeianus) institutioncode:OSUM" ; Times: 1
+	Query: "OSUM 2335" ; Times: 1
+	Query: "specificepithet:sylvatica genus:rana stateprovince:&#34;ohio&#34; institutioncode:OSUM" ; Times: 1
+	Query: "genus:Pseudacris specificepithet:nigrita" ; Times: 1
+	Query: "specificepithet:sylvatica genus:rana stateprovince:&#34;alabama&#34; institutioncode:OSUM" ; Times: 2
+	Query: "Scaphiopus holbrooki" ; Times: 1
+	Query: "specificepithet:scutatum genus:hemidactylium stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "genus:Pseudacris specificepithet:ornata" ; Times: 2
+	Query: "specificepithet:sylvatica genus:rana stateprovince:&#34;alabama&#34;" ; Times: 6
+	Query: "genus:Triprion specificepithet:petasatus" ; Times: 2
+	Query: "genus:Cryptobranchus specificepithet:alleganiensis" ; Times: 1
+	Query: "osum 2335" ; Times: 1
+	Query: "specificepithet:sylvatica genus:rana institutioncode:OSUM" ; Times: 1
+	Query: "necturus AND virginia" ; Times: 1
+	Query: "specificepithet:montanus genus:Pseudotriton stateprovince:&#34;Tennessee&#34;" ; Times: 2
+	Query: "phaeognathus" ; Times: 1
+	Query: "genus:Anaxyrus specificepithet:quercicus" ; Times: 2
+	Query: "Lithobates catesbeianus stateprovince:&#34;California&#34; institutioncode:OSUM" ; Times: 2
+	Query: "genus:Hyla specificepithet:andersonii" ; Times: 2
+	Query: "specificepithet:sylvatica genus:Rana stateprovince:&#34;alabama&#34;" ; Times: 2
+	Query: "genus:Pseudacris specificepithet:streckeri" ; Times: 1
+	Query: "genus:Pelobates specificepithet:fuscus" ; Times: 2
+	Query: "Lithobates catesbeianus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:Triturus specificepithet:cristatus" ; Times: 1
+	Query: "genus:Eurycea specificepithet:lucifuga" ; Times: 1
+	Query: "genus:Hyla specificepithet:arenicolor" ; Times: 1
+	Query: "genus:Stereochilus specificepithet:marginatus" ; Times: 1
+	Query: "genus:Amphiuma specificepithet:means" ; Times: 2
+	Query: "specificepithet:lewisi genus:necturus" ; Times: 1
+	Query: "genus:Necturus specificepithet:maculosus" ; Times: 1
+	Query: "genus:Rhyacotriton specificepithet:olympicus" ; Times: 1
+	Query: "catalognumber:2335 institutioncode:OSUM" ; Times: 1
+	Query: "necturus AND tennessee" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:jeffersonianum" ; Times: 1
+	Query: "genus:Necturus specificepithet:lewisi" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 1182 download events in this period)
+Total number of records downloaded: 99
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-22 ; Times: 1
+	Date: 2019-06-06 ; Times: 2
+	Date: 2019-06-04 ; Times: 1
+	Date: 2019-06-05 ; Times: 1
+	Date: 2019-06-03 ; Times: 3
+	Date: 2019-06-13 ; Times: 1
+	Date: 2019-06-12 ; Times: 2
+	Date: 2019-06-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Ambystoma opacum Virginia" ; Times: 1
+	Query: "houstonensis" ; Times: 1
+	Query: "phyllomedusa" ; Times: 1
+	Query: "Rana pretiosa" ; Times: 1
+	Query: "genus:Xenopus" ; Times: 1
+	Query: "plethodon jordani stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "specificepithet:scutatum genus:hemidactylium stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "Opossum" ; Times: 1
+	Query: "salamander" ; Times: 1
+	Query: "phaeognathus" ; Times: 1
+	Query: "aneides aeneus" ; Times: 1
+	Query: "tARICHA GRANULOSA" ; Times: 1
+
+
+End of report.
