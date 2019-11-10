@@ -1,0 +1,101 @@
+Report for Institution Code OSUM, Resource osum_amphibians
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 73
+Number of records retrieved in searches: 1076
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 67
+	Country: Denmark ; Times: 2
+	Country: United Kingdom ; Times: 3
+	Country: Canada ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-30 ; Times: 1
+	Date: 2019-09-17 ; Times: 1
+	Date: 2019-09-25 ; Times: 3
+	Date: 2019-09-24 ; Times: 8
+	Date: 2019-09-12 ; Times: 2
+	Date: 2019-09-26 ; Times: 15
+	Date: 2019-09-29 ; Times: 2
+	Date: 2019-09-18 ; Times: 4
+	Date: 2019-09-09 ; Times: 2
+	Date: 2019-09-08 ; Times: 2
+	Date: 2019-09-03 ; Times: 1
+	Date: 2019-09-02 ; Times: 3
+	Date: 2019-09-01 ; Times: 5
+	Date: 2019-09-06 ; Times: 23
+	Date: 2019-09-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:fuscus genus:Pelobates" ; Times: 1
+	Query: "specificepithet:imitator genus:desmognathus year &gt;= 1960" ; Times: 1
+	Query: "desmognathus abditus" ; Times: 5
+	Query: "ohio state university amphibia maryland" ; Times: 1
+	Query: "specificepithet:guttolineata stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "genus:Plethodon stateprovince:&#34;Vermont&#34;" ; Times: 1
+	Query: "acris crepitans maryland fort" ; Times: 1
+	Query: "acris crepitans maryland osum" ; Times: 1
+	Query: "genus:Cryptobranchus stateprovince:&#34;Kentucky&#34;" ; Times: 5
+	Query: "genus:Ambystoma specificepithet:annulatum" ; Times: 1
+	Query: "longicauda warren" ; Times: 1
+	Query: "Ohio Ambystoma Sandusky" ; Times: 1
+	Query: "osum amphibian borror" ; Times: 1
+	Query: "osum maryland amphibia" ; Times: 3
+	Query: "gbifdatasetid:3d84f407-8a76-473a-b8c8-54a58d5f581b" ; Times: 1
+	Query: "acris crepitans maryland washington" ; Times: 1
+	Query: "osum amphibian maryland" ; Times: 3
+	Query: "Tennessee lithobates" ; Times: 2
+	Query: "ambystoma annulatum" ; Times: 1
+	Query: "genus:Necturus stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Virginia&#34; Cryptobranchus alleganiensis" ; Times: 1
+	Query: "institutioncode:OSUM" ; Times: 1
+	Query: "specificepithet:brachyphona stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "osum maryland amphibian" ; Times: 3
+	Query: "genus:Pelobates specificepithet:fuscus" ; Times: 2
+	Query: "Ohio ambystoma" ; Times: 1
+	Query: "osum amphibians maryland" ; Times: 2
+	Query: "hellbender" ; Times: 1
+	Query: "specificepithet:annulatum genus:ambystoma stateprovince:&#34;missouri&#34;" ; Times: 1
+	Query: "cryptobranchus" ; Times: 2
+	Query: "Ambystoma tigrinum" ; Times: 18
+	Query: "streckeri Pseudacris" ; Times: 3
+	Query: "crucifer fairfax" ; Times: 1
+	Query: "osum maryland amphibians" ; Times: 1
+	Query: "osum amphibia maryland" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 1073 download events in this period)
+Total number of records downloaded: 290
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Denmark ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-16 ; Times: 1
+	Date: 2019-09-22 ; Times: 1
+	Date: 2019-09-24 ; Times: 1
+	Date: 2019-09-29 ; Times: 1
+	Date: 2019-09-18 ; Times: 2
+	Date: 2019-09-30 ; Times: 2
+	Date: 2019-09-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "hemiophrys (Bufo OR Anaxyrus)" ; Times: 1
+	Query: "Amphibia Colorado" ; Times: 1
+	Query: "canorus" ; Times: 1
+	Query: "eurycea longicauda virginia" ; Times: 1
+	Query: "specificepithet:boylii genus:rana" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "desmognathus abditus" ; Times: 1
+	Query: "Amphibia Dakota" ; Times: 1
+	Query: "Plethodon caddoensis" ; Times: 1
+
+
+End of report.
