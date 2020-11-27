@@ -1,0 +1,69 @@
+Report for Institution Code OSUM, Resource osum_amphibians
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 17
+Number of records retrieved in searches: 23
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: Brazil ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-24 ; Times: 3
+	Date: 2019-12-30 ; Times: 1
+	Date: 2019-12-29 ; Times: 2
+	Date: 2019-12-18 ; Times: 4
+	Date: 2019-12-19 ; Times: 2
+	Date: 2019-12-11 ; Times: 2
+	Date: 2019-12-12 ; Times: 1
+	Date: 2019-12-13 ; Times: 1
+	Date: 2019-12-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "aneides north carolina" ; Times: 1
+	Query: "Bufo americanus oklahoma" ; Times: 2
+	Query: "204414" ; Times: 1
+	Query: "204411" ; Times: 1
+	Query: "genus:eurycea county:&#34;scotland&#34; stateprovince:&#34;north Carolina&#34;" ; Times: 1
+	Query: "203515" ; Times: 1
+	Query: "specificepithet:wehrlei genus:PLETHODON stateprovince:&#34;NEW YORK&#34;" ; Times: 1
+	Query: "genus:phyllomedusa country:&#34;Bolivia&#34;" ; Times: 1
+	Query: "pelobates fuscus" ; Times: 1
+	Query: "205068" ; Times: 1
+	Query: "204409" ; Times: 1
+	Query: "Ambystoma maculatum wake" ; Times: 1
+	Query: "204230" ; Times: 1
+	Query: "204412" ; Times: 1
+	Query: "specificepithet:quercicus genus:Anaxyrus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 596 download events in this period)
+Total number of records downloaded: 570
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: South Korea ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-10 ; Times: 1
+	Date: 2019-12-05 ; Times: 3
+	Date: 2019-12-12 ; Times: 2
+	Date: 2019-12-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:areolata genus:Rana class:Amphibia" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "lithobates catesbeianus" ; Times: 1
+	Query: "specificepithet:streckeri genus:Pseudacris class:Amphibia" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "specificepithet:wrighti genus:Desmognathus" ; Times: 1
+
+
+End of report.
