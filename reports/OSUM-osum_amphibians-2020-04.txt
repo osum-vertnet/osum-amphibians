@@ -1,0 +1,146 @@
+Report for Institution Code OSUM, Resource osum_amphibians
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 79
+Number of records retrieved in searches: 893
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 71
+	Country: Unknown ; Times: 3
+	Country: United Kingdom ; Times: 4
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-04 ; Times: 16
+	Date: 2020-04-05 ; Times: 2
+	Date: 2020-04-06 ; Times: 2
+	Date: 2020-04-07 ; Times: 2
+	Date: 2020-04-22 ; Times: 10
+	Date: 2020-04-23 ; Times: 2
+	Date: 2020-04-20 ; Times: 1
+	Date: 2020-04-21 ; Times: 1
+	Date: 2020-04-01 ; Times: 1
+	Date: 2020-04-02 ; Times: 2
+	Date: 2020-04-25 ; Times: 1
+	Date: 2020-04-28 ; Times: 3
+	Date: 2020-04-29 ; Times: 2
+	Date: 2020-04-09 ; Times: 2
+	Date: 2020-04-27 ; Times: 1
+	Date: 2020-04-24 ; Times: 3
+	Date: 2020-04-19 ; Times: 2
+	Date: 2020-04-18 ; Times: 2
+	Date: 2020-04-13 ; Times: 3
+	Date: 2020-04-11 ; Times: 1
+	Date: 2020-04-16 ; Times: 2
+	Date: 2020-04-15 ; Times: 9
+	Date: 2020-04-14 ; Times: 1
+	Date: 2020-04-30 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:talpoideum genus:Ambystoma stateprovince:&#34;Georgia&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "rana sphenocephala ouachita louisiana" ; Times: 1
+	Query: "specificepithet:holbrookii genus:Scaphiopus stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:maculatum genus:Ambystoma stateprovince:&#34;Georgia&#34;" ; Times: 3
+	Query: "genus:gyrinophilus county:&#34;scioto&#34; stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "specificepithet:cirrigera genus:Eurycea stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "lithobates clamitans louisiana" ; Times: 1
+	Query: "specificepithet:tigrinum genus:ambystoma stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "Lithobates catesbeianus Carroll County" ; Times: 1
+	Query: "genus:pseudotriton county:&#34;scioto&#34; stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "genus:necturus stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "specificepithet:cinereus genus:Plethodon county:&#34;vinton&#34; stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "catalognumber:107 institutioncode:OSUM" ; Times: 2
+	Query: "specificepithet:cinereus genus:Plethodon county:&#34;Hocking&#34; stateprovince:&#34;Ohio&#34;" ; Times: 3
+	Query: "cryptobranchus stateprovince:&#34;pennsylvania&#34;" ; Times: 1
+	Query: "specificepithet:cinereus genus:Plethodon county:&#34;perry&#34; stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "rana catesbeiana mississippi" ; Times: 2
+	Query: "Triturus cristatus" ; Times: 2
+	Query: "specificepithet:cinereus genus:Plethodon county:&#34;Athens&#34; stateprovince:&#34;Ohio&#34; haslifestage:1" ; Times: 1
+	Query: "specificepithet:maculatum genus:Ambystoma stateprovince:&#34;Georgia&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:ornata genus:Pseudacris stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:clamitans genus:Lithobates stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "genus:gyrinophilus county:&#34;adams&#34; stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "Rana sphenocephala mississippi" ; Times: 1
+	Query: "genus:pseudotriton county:&#34;adams&#34; stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "Pseudacris feriarum mississippi" ; Times: 1
+	Query: "specificepithet:ruber genus:Pseudotriton stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:cinereus genus:Plethodon county:&#34;Athens&#34; stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "specificepithet:cirrigera genus:Eurycea stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "cryptobranchus stateprovince:&#34;west virginia&#34;" ; Times: 1
+	Query: "order:Urodela stateprovince:&#34;New York&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "bufo fowleri mississippi" ; Times: 2
+	Query: "order:Urodela stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "genus:Ambystoma county:&#34;Washtenaw&#34; stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "specificepithet:cinereus genus:Plethodon stateprovince:&#34;Ohio&#34; haslifestage:1" ; Times: 1
+	Query: "genus:Desmognathus auriculatus stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "rana sphenocephala mississippi" ; Times: 3
+	Query: "D. Sim" ; Times: 2
+	Query: "pseudacris feriarum mississippi" ; Times: 2
+	Query: "specificepithet:lucifuga genus:Eurycea stateprovince:&#34;Indiana&#34;" ; Times: 1
+	Query: "specificepithet:aquatica genus:Eurycea stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:cinereus genus:Plethodon county:&#34;morgan&#34; stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "specificepithet:glutinosus genus:plethodon stateprovince:&#34;ohio&#34;" ; Times: 8
+	Query: "genus:aneides county:&#34;adams&#34; stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "rana catesbeiana louisiana" ; Times: 2
+	Query: "aneides stateprovince:&#34;west virginia&#34;" ; Times: 1
+	Query: "recordedby:w. w. price" ; Times: 1
+	Query: "plethodon ainsworthi" ; Times: 1
+	Query: "specificepithet:guttolineata genus:Eurycea stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:auriculatus genus:Desmognathus stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "Rana sphenocephala Mississippi" ; Times: 1
+	Query: "class:Amphibia institutioncode:OSUM" ; Times: 1
+	Query: "genus:aneides county:&#34;scioto&#34; stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "specificepithet:viridescens genus:Notophthalmus stateprovince:&#34;Ohio&#34;" ; Times: 2
+	Query: "genus:hemidactylium stateprovince:&#34;ohio&#34;" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 26 (out of 1171 download events in this period)
+Total number of records downloaded: 5641
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 23
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-18 ; Times: 6
+	Date: 2020-04-15 ; Times: 6
+	Date: 2020-04-14 ; Times: 1
+	Date: 2020-04-22 ; Times: 1
+	Date: 2020-04-30 ; Times: 2
+	Date: 2020-04-27 ; Times: 7
+	Date: 2020-04-29 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:wehrlei genus:plethodon stateprovince:&#34;virginia&#34;" ; Times: 1
+	Query: "specificepithet:metcalfi genus:Plethodon" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 2
+	Query: "specificepithet:cinereus genus:Plethodon county:&#34;vinton&#34; stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Desmognathus" ; Times: 1
+	Query: "specificepithet:dorsalis genus:plethodon" ; Times: 1
+	Query: "specificepithet:cinereus genus:Plethodon county:&#34;perry&#34; stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "Eleutherodactylus" ; Times: 1
+	Query: "specificepithet:cinereus genus:Plethodon county:&#34;Athens&#34; stateprovince:&#34;Ohio&#34; haslifestage:1" ; Times: 1
+	Query: "Salamandra salamandra" ; Times: 1
+	Query: "specificepithet:yonahlossee genus:Plethodon" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "specificepithet:wrighti genus:Desmognathus" ; Times: 1
+	Query: "specificepithet:cinereus genus:Plethodon county:&#34;Athens&#34; stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "specificepithet:JORDANI genus:Plethodon" ; Times: 1
+	Query: "specificepithet:cinereus genus:Plethodon county:&#34;Hocking&#34; stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "specificepithet:imitator genus:Desmognathus" ; Times: 1
+	Query: "specificepithet:cinereus genus:Plethodon county:&#34;morgan&#34; stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "hellbender" ; Times: 1
+	Query: "specificepithet:shermani genus:Plethodon" ; Times: 1
+	Query: "plethodon dorsalis" ; Times: 2
+	Query: "class:Amphibia institutioncode:OSUM" ; Times: 1
+	Query: "specificepithet:welleri genus:Plethodon" ; Times: 1
+	Query: "Rhyacotriton" ; Times: 1
+
+
+End of report.
