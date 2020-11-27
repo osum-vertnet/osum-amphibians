@@ -1,0 +1,108 @@
+Report for Institution Code OSUM, Resource osum_amphibians
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 41
+Number of records retrieved in searches: 496
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 39
+	Country: Singapore ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-30 ; Times: 2
+	Date: 2020-05-31 ; Times: 4
+	Date: 2020-05-22 ; Times: 3
+	Date: 2020-05-18 ; Times: 1
+	Date: 2020-05-07 ; Times: 2
+	Date: 2020-05-06 ; Times: 6
+	Date: 2020-05-16 ; Times: 8
+	Date: 2020-05-09 ; Times: 3
+	Date: 2020-05-08 ; Times: 1
+	Date: 2020-05-10 ; Times: 1
+	Date: 2020-05-11 ; Times: 1
+	Date: 2020-05-05 ; Times: 4
+	Date: 2020-05-04 ; Times: 2
+	Date: 2020-05-15 ; Times: 1
+	Date: 2020-05-01 ; Times: 1
+	Date: 2020-05-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:&#34;Ohio&#34; catalognumber:1623 institutioncode:OSUM" ; Times: 1
+	Query: "stateprovince:&#34;Ohio&#34; catalognumber:1393 institutioncode:OSUM" ; Times: 1
+	Query: "stateprovince:&#34;Ohio&#34; catalognumber:1845 institutioncode:OSUM" ; Times: 1
+	Query: "necturus wisconsin" ; Times: 4
+	Query: "specificepithet:wilderae genus:Eurycea stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:aeneus genus:Aneides stateprovince:&#34;North Carolina&#34;" ; Times: 3
+	Query: "acris gryllus scott" ; Times: 1
+	Query: "stateprovince:&#34;Ohio&#34; catalognumber:1524 institutioncode:OSUM" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 2
+	Query: "stateprovince:&#34;Ohio&#34; catalognumber:1745 institutioncode:OSUM" ; Times: 1
+	Query: "catalognumber:1014 institutioncode:OSUM" ; Times: 1
+	Query: "catalognumber:1277 institutioncode:OSUM" ; Times: 2
+	Query: "genus:Aneides stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "institutioncode:OSUM" ; Times: 4
+	Query: "203003" ; Times: 1
+	Query: "203002" ; Times: 1
+	Query: "specificepithet:aquatica genus:Eurycea stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "Notophthalmus viridescens 2012" ; Times: 1
+	Query: "Notophthalmus viridescens 2011" ; Times: 1
+	Query: "201535" ; Times: 1
+	Query: "stateprovince:&#34;Ohio&#34; catalognumber:1060 institutioncode:OSUM" ; Times: 1
+	Query: "genus:Pseudotriton stateprovince:&#34;Mississippi&#34;" ; Times: 6
+	Query: "specificepithet:brachyphona genus:Pseudacris stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Ohio&#34; catalognumber:1639 institutioncode:OSUM" ; Times: 1
+	Query: "stateprovince:&#34;Ohio&#34; catalognumber:1649 institutioncode:OSUM" ; Times: 1
+	Query: "genus:Cryptobranchus stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 21 (out of 1106 download events in this period)
+Total number of records downloaded: 1333
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: Unknown ; Times: 1
+	Country: Ecuador ; Times: 1
+	Country: Ireland ; Times: 1
+	Country: Singapore ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-24 ; Times: 3
+	Date: 2020-05-04 ; Times: 1
+	Date: 2020-05-23 ; Times: 2
+	Date: 2020-05-22 ; Times: 1
+	Date: 2020-05-18 ; Times: 1
+	Date: 2020-05-19 ; Times: 3
+	Date: 2020-05-07 ; Times: 1
+	Date: 2020-05-06 ; Times: 1
+	Date: 2020-05-05 ; Times: 6
+	Date: 2020-05-13 ; Times: 1
+	Date: 2020-05-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "PLETHODON MISSISSIPPI" ; Times: 1
+	Query: "EURYCEA LONGICAUDA" ; Times: 1
+	Query: "genus:Triturus family:salamandridae" ; Times: 1
+	Query: "Eurycea guttolineata" ; Times: 1
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "necturus wisconsin" ; Times: 1
+	Query: "lithobates catesbeianus" ; Times: 1
+	Query: "plethodon dorsalis" ; Times: 1
+	Query: "Ambystoma gracile" ; Times: 1
+	Query: "NOTOPHTHALMUS VIRIDESCENS" ; Times: 1
+	Query: "amphibia oregon" ; Times: 1
+	Query: "necturus maculosus" ; Times: 1
+	Query: "Dicamptodon" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "Notophthalmus viridescens" ; Times: 3
+	Query: "Lithobates" ; Times: 1
+	Query: "Notophthalmus viridescens 2012" ; Times: 1
+	Query: "Hyla gratiosa" ; Times: 1
+	Query: "Notophthalmus viridescens 2011" ; Times: 1
+
+
+End of report.
