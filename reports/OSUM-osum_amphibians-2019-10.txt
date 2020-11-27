@@ -1,0 +1,101 @@
+Report for Institution Code OSUM, Resource osum_amphibians
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 38
+Number of records retrieved in searches: 172
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 18
+	Country: Unknown ; Times: 15
+	Country: Argentina ; Times: 1
+	Country: Italy ; Times: 3
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 3
+	Date: 2019-10-22 ; Times: 7
+	Date: 2019-10-18 ; Times: 2
+	Date: 2019-10-20 ; Times: 1
+	Date: 2019-10-25 ; Times: 1
+	Date: 2019-10-24 ; Times: 7
+	Date: 2019-10-16 ; Times: 2
+	Date: 2019-10-03 ; Times: 1
+	Date: 2019-10-11 ; Times: 4
+	Date: 2019-10-30 ; Times: 1
+	Date: 2019-10-17 ; Times: 2
+	Date: 2019-10-14 ; Times: 2
+	Date: 2019-10-06 ; Times: 2
+	Date: 2019-10-21 ; Times: 1
+	Date: 2019-10-10 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "&#34;pseudacris ornata&#34; &#34;north carolina&#34;" ; Times: 1
+	Query: "plethodon vandykei" ; Times: 1
+	Query: "Necturus maculosus Tennessee" ; Times: 2
+	Query: "Salamandrina" ; Times: 3
+	Query: "albino genus:ambystoma" ; Times: 1
+	Query: "genus:cryptobranchus stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "specificepithet:sylvatica genus:rana stateprovince:&#34;alabama&#34;" ; Times: 1
+	Query: "Desmognathus folkertsi" ; Times: 2
+	Query: "genus:Cryptobranchus stateprovince:&#34;Virginia&#34;" ; Times: 2
+	Query: "notophthalmus viridescens stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "Anaxyrus quercicus" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:barbouri" ; Times: 1
+	Query: "specificepithet:richmondi genus:plethodon stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:cingulatum" ; Times: 1
+	Query: "lithobates aurora" ; Times: 1
+	Query: "genus:Aneides stateprovince:&#34;Kentucky&#34;" ; Times: 3
+	Query: "locality:New Hanover" ; Times: 6
+	Query: "albino specificepithet:maculatum genus:ambystoma" ; Times: 1
+	Query: "streckeri Pseudacris" ; Times: 1
+	Query: "arborea Hyla" ; Times: 2
+	Query: "osum maryland amphibians" ; Times: 1
+	Query: "macrodactylum Ambystoma" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 39 (out of 1308 download events in this period)
+Total number of records downloaded: 3830
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Unknown ; Times: 17
+	Country: Mexico ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-23 ; Times: 14
+	Date: 2019-10-10 ; Times: 1
+	Date: 2019-10-02 ; Times: 1
+	Date: 2019-10-16 ; Times: 1
+	Date: 2019-10-31 ; Times: 2
+	Date: 2019-10-07 ; Times: 1
+	Date: 2019-10-04 ; Times: 2
+	Date: 2019-10-06 ; Times: 1
+	Date: 2019-10-03 ; Times: 14
+	Date: 2019-10-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Rana pipiens country:&#34;Canada&#34;" ; Times: 2
+	Query: "genus:gyrinophilus stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "(Rana pipiens) Canada" ; Times: 9
+	Query: "(Rana pipiens) Canada country:&#34;Canada&#34;" ; Times: 1
+	Query: "yonahlossee" ; Times: 1
+	Query: "Lithobates Catesbeianus" ; Times: 1
+	Query: "(Rana pipiens) country:&#34;canada&#34;" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 9
+	Query: "specificepithet:yonahlossee genus:Plethodon" ; Times: 1
+	Query: "(Rana pipiens) country:&#34;Canada&#34;" ; Times: 2
+	Query: "rana pipiens country:&#34;CANADA&#34;" ; Times: 1
+	Query: "genus:Phyllomedusa" ; Times: 2
+	Query: "Anaxyrus fowleri" ; Times: 1
+	Query: "genus:bufo stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:anaxyrus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "rana pipiens Canada" ; Times: 1
+	Query: "lithobates catesbeianus" ; Times: 4
+
+
+End of report.
