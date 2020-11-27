@@ -1,0 +1,149 @@
+Report for Institution Code OSUM, Resource osum_amphibians
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 102
+Number of records retrieved in searches: 830
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 100
+	Country: United Kingdom ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-22 ; Times: 3
+	Date: 2020-01-17 ; Times: 3
+	Date: 2020-01-29 ; Times: 2
+	Date: 2020-01-02 ; Times: 1
+	Date: 2020-01-06 ; Times: 4
+	Date: 2020-01-05 ; Times: 1
+	Date: 2020-01-21 ; Times: 7
+	Date: 2020-01-20 ; Times: 9
+	Date: 2020-01-23 ; Times: 31
+	Date: 2020-01-08 ; Times: 2
+	Date: 2020-01-24 ; Times: 2
+	Date: 2020-01-27 ; Times: 1
+	Date: 2020-01-26 ; Times: 10
+	Date: 2020-01-18 ; Times: 1
+	Date: 2020-01-19 ; Times: 9
+	Date: 2020-01-14 ; Times: 1
+	Date: 2020-01-16 ; Times: 1
+	Date: 2020-01-31 ; Times: 1
+	Date: 2020-01-10 ; Times: 1
+	Date: 2020-01-11 ; Times: 9
+	Date: 2020-01-12 ; Times: 1
+	Date: 2020-01-13 ; Times: 1
+	Date: 2020-01-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:lucifuga genus:Eurycea institutioncode:OSUM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:cryptobranchus stateprovince:&#34;west Virginia&#34;" ; Times: 1
+	Query: "specificepithet:arenicolor genus:Hyla county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:houstonensis genus:Bufo" ; Times: 1
+	Query: "eurycea aquatica Georgia" ; Times: 2
+	Query: "genus:Eurycea county:&#34;scotland&#34; stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "genus:cryptobranchus stateprovince:&#34;ohio&#34;" ; Times: 3
+	Query: "specificepithet:montanus genus:Pseudotriton stateprovince:&#34;mississippi&#34;" ; Times: 1
+	Query: "pretiosa Rana" ; Times: 1
+	Query: "specificepithet:couchii genus:Scaphiopus county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:quercicus genus:Bufo" ; Times: 1
+	Query: "specificepithet:grylio genus:Rana" ; Times: 1
+	Query: "hemidactylium north carolina cherokee" ; Times: 1
+	Query: "Scaphiopus holbrooki" ; Times: 2
+	Query: "Pseudotriton montanus diasticus" ; Times: 1
+	Query: "specificepithet:brimleyi genus:Pseudacris" ; Times: 1
+	Query: "eurycea aquatica Tennessee" ; Times: 1
+	Query: "county:&#34;Lawrence&#34; stateprovince:&#34;Ohio&#34;" ; Times: 7
+	Query: "specificepithet:arenicolor genus:Hyla" ; Times: 1
+	Query: "specificepithet:areolata genus:Rana" ; Times: 1
+	Query: "specificepithet:laterale genus:Ambystoma institutioncode:OSUM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:opacum genus:Ambystoma stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "pseudotriton montanus ohio" ; Times: 1
+	Query: "genus:Eurycea institutioncode:OSUM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:virgatipes genus:Rana" ; Times: 1
+	Query: "specificepithet:fuscus genus:Pelobates" ; Times: 1
+	Query: "class:amphibia county:&#34;carter&#34; stateprovince:&#34;Kentucky&#34;" ; Times: 1
+	Query: "cryptobranchus Alabama" ; Times: 4
+	Query: "specificepithet:heckscheri genus:Rana" ; Times: 1
+	Query: "specificepithet:ocularis genus:Pseudacris" ; Times: 1
+	Query: "genus:Necturus stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "amphibia Georgia whitfield" ; Times: 1
+	Query: "specificepithet:streckeri genus:Pseudacris" ; Times: 1
+	Query: "specificepithet:brimleyi genus:Pseudacris stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:maculatum genus:Ambystoma stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "cryptobranchus kentucky" ; Times: 6
+	Query: "specificepithet:fodiens genus:Smilisca" ; Times: 1
+	Query: "specificepithet:maculatum genus:ambystoma stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "genus:cryptobranchus stateprovince:&#34;Kentucky&#34;" ; Times: 2
+	Query: "specificepithet:gratiosa genus:Hyla" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:barbouri" ; Times: 1
+	Query: "specificepithet:aeneus genus:Aneides institutioncode:OSUM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:canorus genus:Bufo" ; Times: 1
+	Query: "specificepithet:quadramaculatus genus:desmognathus stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:ornata genus:Pseudacris" ; Times: 1
+	Query: "specificepithet:arborea genus:Hyla" ; Times: 1
+	Query: "specificepithet:septentrionalis genus:Rana" ; Times: 1
+	Query: "specificepithet:hemiophrys genus:Bufo" ; Times: 1
+	Query: "specificepithet:maculatum genus:Ambystoma stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "county:&#34;wayne&#34; stateprovince:&#34;west virginia&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "204019" ; Times: 1
+	Query: "specificepithet:venulosus genus:Trachycephalus" ; Times: 1
+	Query: "marble salamander" ; Times: 1
+	Query: "pseudotriton montanus Tennessee" ; Times: 2
+	Query: "genus:eurycea county:&#34;scotland&#34; stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "specificepithet:geographicus genus:Hypsiboas" ; Times: 1
+	Query: "specificepithet:alvarius genus:Bufo" ; Times: 1
+	Query: "rana catesbeiana wyoming" ; Times: 1
+	Query: "specificepithet:brachyphona genus:Pseudacris" ; Times: 1
+	Query: "specificepithet:brachyphona genus:Pseudacris stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "Ornate chorus frog" ; Times: 2
+	Query: "specificepithet:andersonii genus:Hyla" ; Times: 1
+	Query: "salamandra Salamandra" ; Times: 1
+	Query: "aneides ohio" ; Times: 9
+	Query: "specificepithet:petasatus genus:Triprion" ; Times: 1
+	Query: "specificepithet:nigrita genus:Pseudacris" ; Times: 1
+	Query: "specificepithet:nasicus genus:Scinax" ; Times: 1
+	Query: "specificepithet:tarsius genus:Phyllomedusa" ; Times: 1
+	Query: "specificepithet:maculatum genus:Ambystoma stateprovince:&#34;Georgia&#34;" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 1584 download events in this period)
+Total number of records downloaded: 217
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-28 ; Times: 4
+	Date: 2020-01-22 ; Times: 1
+	Date: 2020-01-06 ; Times: 1
+	Date: 2020-01-04 ; Times: 1
+	Date: 2020-01-16 ; Times: 1
+	Date: 2020-01-08 ; Times: 1
+	Date: 2020-01-25 ; Times: 1
+	Date: 2020-01-24 ; Times: 2
+	Date: 2020-01-27 ; Times: 1
+	Date: 2020-01-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "&#34;bd&#34; order:anura" ; Times: 1
+	Query: "genus:rana stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Scaphiopus" ; Times: 1
+	Query: "specificepithet:canorus" ; Times: 1
+	Query: "specificepithet:brachyphona genus:Pseudacris stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "plethodon vandykei" ; Times: 1
+	Query: "genus:cryptobranchus" ; Times: 1
+	Query: "stateprovince:&#34;Quintana Roo&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "specificepithet:maculatum genus:Ambystoma stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "specificepithet:tigrinum genus:Ambystoma" ; Times: 1
+	Query: "specificepithet:streckeri genus:Pseudacris" ; Times: 1
+	Query: "specificepithet:cinereus genus:plethodon country:&#34;united states&#34;" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "specificepithet:areolata family:ranidae" ; Times: 1
+
+
+End of report.
