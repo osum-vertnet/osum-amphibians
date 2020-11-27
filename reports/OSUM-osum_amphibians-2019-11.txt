@@ -1,0 +1,75 @@
+Report for Institution Code OSUM, Resource osum_amphibians
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 29
+Number of records retrieved in searches: 538
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 25
+	Country: Unknown ; Times: 1
+	Country: Italy ; Times: 2
+	Country: Bosnia and Herzegovina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-26 ; Times: 3
+	Date: 2019-11-27 ; Times: 1
+	Date: 2019-11-06 ; Times: 4
+	Date: 2019-11-14 ; Times: 1
+	Date: 2019-11-04 ; Times: 1
+	Date: 2019-11-11 ; Times: 6
+	Date: 2019-11-03 ; Times: 2
+	Date: 2019-11-13 ; Times: 3
+	Date: 2019-11-12 ; Times: 4
+	Date: 2019-11-07 ; Times: 1
+	Date: 2019-11-01 ; Times: 2
+	Date: 2019-11-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "203751" ; Times: 1
+	Query: "eurycea quadridigitatus OSU" ; Times: 1
+	Query: "genus:necturus stateprovince:&#34;mississippi&#34;" ; Times: 1
+	Query: "Bufo houstonensis" ; Times: 2
+	Query: "eurycea quadridigitata OSU" ; Times: 1
+	Query: "Pseudacris brachyphona" ; Times: 1
+	Query: "20532" ; Times: 1
+	Query: "ambystoma cingulatum" ; Times: 1
+	Query: "class:amphibia county:&#34;columbia&#34; stateprovince:&#34;pennsylvania&#34;" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 2
+	Query: "unisexual ambystoma" ; Times: 2
+	Query: "204408" ; Times: 1
+	Query: "jolliff" ; Times: 1
+	Query: "kk genus:cryptobranchus" ; Times: 1
+	Query: "20605" ; Times: 1
+	Query: "jolliff genus:cryptobranchus" ; Times: 1
+	Query: "gbifdatasetid:3d84f407-8a76-473a-b8c8-54a58d5f581b" ; Times: 3
+	Query: "eurycea OSU" ; Times: 1
+	Query: "genus:Pelobates specificepithet:fuscus" ; Times: 1
+	Query: "locality:new hanover" ; Times: 2
+	Query: "genus:Aneides stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "specificepithet:maculatum genus:Ambystoma stateprovince:&#34;Georgia&#34;" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 1367 download events in this period)
+Total number of records downloaded: 65
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Bosnia and Herzegovina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-07 ; Times: 1
+	Date: 2019-11-18 ; Times: 2
+	Date: 2019-11-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Pelobates specificepithet:fuscus" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 2
+	Query: "specificepithet:woodhousii genus:bufo stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+
+
+End of report.
