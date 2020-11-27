@@ -1,0 +1,97 @@
+Report for Institution Code OSUM, Resource osum_amphibians
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 23
+Number of records retrieved in searches: 128
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 19
+	Country: Switzerland ; Times: 1
+	Country: Unknown ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-10 ; Times: 2
+	Date: 2020-03-30 ; Times: 3
+	Date: 2020-03-31 ; Times: 2
+	Date: 2020-03-24 ; Times: 1
+	Date: 2020-03-22 ; Times: 2
+	Date: 2020-03-21 ; Times: 1
+	Date: 2020-03-20 ; Times: 1
+	Date: 2020-03-16 ; Times: 4
+	Date: 2020-03-04 ; Times: 1
+	Date: 2020-03-14 ; Times: 1
+	Date: 2020-03-15 ; Times: 2
+	Date: 2020-03-03 ; Times: 2
+	Date: 2020-03-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:tigrinum genus:Ambystoma stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "pseudotriton montanus tennessee" ; Times: 1
+	Query: "specificepithet:glutinosus genus:Plethodon stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "DOT 232" ; Times: 1
+	Query: "genus:spea county:&#34;Marshall&#34; stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "genus:Stereochilus specificepithet:marginatus" ; Times: 1
+	Query: "specificepithet:annulatum genus:Ambystoma" ; Times: 1
+	Query: "specificepithet:crucifer family:Hylidae distance(location,geopoint(36.02613389748785,-81.90214402665781))&lt;229547" ; Times: 1
+	Query: "(202384)" ; Times: 1
+	Query: "institutioncode:OSUM" ; Times: 1
+	Query: "specificepithet:wilderae genus:eurycea stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "necturus maculosus AND (canada)" ; Times: 1
+	Query: "brachyphona stateprovince:&#34;pennsylvania&#34;" ; Times: 1
+	Query: "specificepithet:glutinosus genus:Plethodon stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "brachyphona county:&#34;westmoreland&#34; stateprovince:&#34;pennsylvania&#34;" ; Times: 1
+	Query: "&#34;Bat cave&#34; county:&#34;Rutherford&#34; stateprovince:&#34;North carolina&#34;" ; Times: 3
+	Query: "Jefferson Salamander" ; Times: 3
+	Query: "amphibia Kentucky livingston" ; Times: 1
+	Query: "specificepithet:glutinosus genus:Plethodon stateprovince:&#34;Louisiana&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 23 (out of 853 download events in this period)
+Total number of records downloaded: 414
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 21
+	Country: Cuba ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-19 ; Times: 3
+	Date: 2020-03-30 ; Times: 3
+	Date: 2020-03-23 ; Times: 3
+	Date: 2020-03-20 ; Times: 2
+	Date: 2020-03-12 ; Times: 2
+	Date: 2020-03-13 ; Times: 2
+	Date: 2020-03-10 ; Times: 4
+	Date: 2020-03-02 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "pseudotriton" ; Times: 1
+	Query: "specificepithet:bombifrons genus:Spea" ; Times: 1
+	Query: "Plethodon yonahlossee" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 1
+	Query: "plethodon wehrlei" ; Times: 1
+	Query: "plethodon yonahlossee" ; Times: 1
+	Query: "specificepithet:annulatum genus:Ambystoma" ; Times: 1
+	Query: "specificepithet:yonahlossee genus:Plethodon" ; Times: 1
+	Query: "specificepithet:punctatus genus:Anaxyrus" ; Times: 1
+	Query: "genus:Trachycephalus family:Hylidae" ; Times: 1
+	Query: "specificepithet:glutinosus genus:Plethodon stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:palustris family:Ranidae" ; Times: 1
+	Query: "pseudotriton montanus" ; Times: 1
+	Query: "specificepithet:olivacea genus:Gastrophryne" ; Times: 1
+	Query: "specificepithet:punctatus genus:Bufo" ; Times: 1
+	Query: "specificepithet:means genus:Amphiuma" ; Times: 1
+	Query: "specificepithet:lucifuga genus:Eurycea" ; Times: 1
+	Query: "specificepithet:glutinosus genus:Plethodon stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "genus:Amphiuma" ; Times: 1
+	Query: "Trachycephalus venulosus" ; Times: 1
+	Query: "dicamptodon" ; Times: 1
+	Query: "pseudotriton ruber" ; Times: 1
+	Query: "Trachycephalus" ; Times: 1
+
+
+End of report.
