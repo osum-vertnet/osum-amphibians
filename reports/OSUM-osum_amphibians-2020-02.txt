@@ -1,0 +1,104 @@
+Report for Institution Code OSUM, Resource osum_amphibians
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 43
+Number of records retrieved in searches: 1819
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 38
+	Country: Unknown ; Times: 2
+	Country: Brazil ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-19 ; Times: 4
+	Date: 2020-02-04 ; Times: 14
+	Date: 2020-02-27 ; Times: 1
+	Date: 2020-02-11 ; Times: 3
+	Date: 2020-02-03 ; Times: 1
+	Date: 2020-02-13 ; Times: 1
+	Date: 2020-02-12 ; Times: 4
+	Date: 2020-02-06 ; Times: 3
+	Date: 2020-02-07 ; Times: 1
+	Date: 2020-02-22 ; Times: 1
+	Date: 2020-02-05 ; Times: 4
+	Date: 2020-02-01 ; Times: 1
+	Date: 2020-02-18 ; Times: 1
+	Date: 2020-02-20 ; Times: 1
+	Date: 2020-02-09 ; Times: 1
+	Date: 2020-02-28 ; Times: 1
+	Date: 2020-02-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "aneides aeneus stateprovince:&#34;west virginia&#34;" ; Times: 1
+	Query: "aneides Georgia rabun" ; Times: 2
+	Query: "OSUM" ; Times: 1
+	Query: "gbifdatasetid:3d84f407-8a76-473a-b8c8-54a58d5f581b montanus" ; Times: 1
+	Query: "institutioncode:osum" ; Times: 1
+	Query: "genus:Gyrinophilus stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "gbifdatasetid:3d84f407-8a76-473a-b8c8-54a58d5f581b tigrinum" ; Times: 2
+	Query: "vntype:specimen institutioncode:OSUM" ; Times: 3
+	Query: "gbifdatasetid:3d84f407-8a76-473a-b8c8-54a58d5f581b lucifuga" ; Times: 3
+	Query: "Lithobates catesbeiana mappable:1" ; Times: 1
+	Query: "specificepithet:clamitans stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "genus:cryptobranchus stateprovince:&#34;Kentucky&#34;" ; Times: 2
+	Query: "specificepithet:aeneus genus:Aneides stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "gbifdatasetid:3d84f407-8a76-473a-b8c8-54a58d5f581b" ; Times: 5
+	Query: "specificepithet:barbouri genus:Ambystoma" ; Times: 1
+	Query: "institutioncode:OSUM" ; Times: 1
+	Query: "ambystoma barbouri" ; Times: 2
+	Query: "gbifdatasetid:3d84f407-8a76-473a-b8c8-54a58d5f581b texanum" ; Times: 2
+	Query: "specificepithet:maculatum genus:ambystoma stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "Lithobates catesbeiana" ; Times: 2
+	Query: "204122" ; Times: 1
+	Query: "gbifdatasetid:3d84f407-8a76-473a-b8c8-54a58d5f581b barbouri" ; Times: 4
+	Query: "Red spotted toad" ; Times: 1
+	Query: "catalognumber:4916" ; Times: 1
+	Query: "genus:Notophthalmus stateprovince:north carolina" ; Times: 1
+	Query: "20991" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 1023 download events in this period)
+Total number of records downloaded: 448
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-11 ; Times: 2
+	Date: 2020-02-10 ; Times: 3
+	Date: 2020-02-12 ; Times: 1
+	Date: 2020-02-15 ; Times: 2
+	Date: 2020-02-14 ; Times: 1
+	Date: 2020-02-27 ; Times: 2
+	Date: 2020-02-19 ; Times: 2
+	Date: 2020-02-18 ; Times: 1
+	Date: 2020-02-28 ; Times: 1
+	Date: 2020-02-29 ; Times: 1
+	Date: 2020-02-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:andersonii family:Hylidae" ; Times: 1
+	Query: "class:Amphibia country:&#34;México&#34;" ; Times: 1
+	Query: "specificepithet:aeneus genus:Aneides stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Rana catesbeiana" ; Times: 1
+	Query: "genus:Rana locality:Yosemite" ; Times: 1
+	Query: "specificepithet:woodhousii genus:Bufo stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:brachyphona genus:Pseudacris" ; Times: 2
+	Query: "plethodon dorsalis" ; Times: 2
+	Query: "class:amphibia county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "pseudacris streckeri" ; Times: 1
+	Query: "class:Amphibia country:&#34;Panama&#34;" ; Times: 1
+	Query: "Taricha" ; Times: 1
+	Query: "specificepithet:streckeri genus:Pseudacris" ; Times: 1
+	Query: "Smilisca baudinii" ; Times: 2
+	Query: "specificepithet:barbouri genus:Ambystoma" ; Times: 1
+
+
+End of report.
