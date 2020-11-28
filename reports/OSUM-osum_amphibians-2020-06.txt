@@ -1,0 +1,58 @@
+Report for Institution Code OSUM, Resource osum_amphibians
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 11
+Number of records retrieved in searches: 68
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-04 ; Times: 2
+	Date: 2020-06-11 ; Times: 1
+	Date: 2020-06-10 ; Times: 1
+	Date: 2020-06-01 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:2021 institutioncode:OSUM" ; Times: 1
+	Query: "genus:Pseudotriton stateprovince:&#34;Mississippi&#34;" ; Times: 6
+	Query: "catalognumber:4018" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "catalognumber: 3742" ; Times: 1
+	Query: "Diemictylus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 474 download events in this period)
+Total number of records downloaded: 531
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-09 ; Times: 1
+	Date: 2020-06-07 ; Times: 1
+	Date: 2020-06-04 ; Times: 2
+	Date: 2020-06-05 ; Times: 1
+	Date: 2020-06-03 ; Times: 2
+	Date: 2020-06-01 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "racoon" ; Times: 2
+	Query: "Desmognathus welteri" ; Times: 1
+	Query: "locality:kentucky" ; Times: 1
+	Query: "genus:Pseudotriton stateprovince:&#34;Mississippi&#34;" ; Times: 2
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "specificepithet:truei genus:Ascaphus" ; Times: 1
+	Query: "Ambystoma maculatum" ; Times: 2
+	Query: "genus:spea stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "raccoon" ; Times: 1
+
+
+End of report.
