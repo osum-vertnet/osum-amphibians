@@ -1,0 +1,75 @@
+Report for Institution Code OSUM, Resource osum_amphibians
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 15
+Number of records retrieved in searches: 161
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: Unknown ; Times: 1
+	Country: Argentina ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-15 ; Times: 1
+	Date: 2020-09-16 ; Times: 4
+	Date: 2020-09-22 ; Times: 1
+	Date: 2020-09-12 ; Times: 1
+	Date: 2020-09-29 ; Times: 1
+	Date: 2020-09-30 ; Times: 2
+	Date: 2020-09-09 ; Times: 1
+	Date: 2020-09-03 ; Times: 3
+	Date: 2020-09-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Anura county:&#34;Randolph&#34; stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "mappable:1 scientificname:Scinax nasicus" ; Times: 2
+	Query: "order:Anura county:&#34;Chambers&#34; stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "carroll county Necturus" ; Times: 1
+	Query: "specificepithet:barbouri genus:ambystoma" ; Times: 4
+	Query: "Lithobates catesbeianus jasper missouri" ; Times: 1
+	Query: "fowleri stateprovince:&#34;west virginia&#34;" ; Times: 1
+	Query: "institutioncode:OSUM" ; Times: 1
+	Query: "specificepithet:heckscheri stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "specificepithet:heckscheri genus:rana stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "specificepithet:pipiens genus:Rana stateprovince:&#34;New York&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 976 download events in this period)
+Total number of records downloaded: 411
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-14 ; Times: 5
+	Date: 2020-09-15 ; Times: 2
+	Date: 2020-09-16 ; Times: 2
+	Date: 2020-09-25 ; Times: 2
+	Date: 2020-09-26 ; Times: 1
+	Date: 2020-09-28 ; Times: 2
+	Date: 2020-09-30 ; Times: 1
+	Date: 2020-09-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Hyla femoralis" ; Times: 1
+	Query: "Smilisca fodiens México" ; Times: 4
+	Query: "acris" ; Times: 1
+	Query: "Hyla chrysoscelis" ; Times: 2
+	Query: "specificepithet:pipiens genus:Rana country:&#34;Canada&#34;" ; Times: 2
+	Query: "Hyla cinerea" ; Times: 1
+	Query: "ambystoma opacum" ; Times: 1
+	Query: "Pseudotriton ruber" ; Times: 1
+	Query: "leptodactylidae" ; Times: 1
+	Query: "hyla squirella" ; Times: 1
+	Query: "hyla gratiosa" ; Times: 1
+
+
+End of report.
