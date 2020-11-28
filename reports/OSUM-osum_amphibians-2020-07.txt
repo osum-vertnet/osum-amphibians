@@ -1,0 +1,121 @@
+Report for Institution Code OSUM, Resource osum_amphibians
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 128
+Number of records retrieved in searches: 1698
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 127
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 5
+	Date: 2020-07-08 ; Times: 3
+	Date: 2020-07-18 ; Times: 1
+	Date: 2020-07-20 ; Times: 1
+	Date: 2020-07-03 ; Times: 6
+	Date: 2020-07-02 ; Times: 4
+	Date: 2020-07-30 ; Times: 68
+	Date: 2020-07-17 ; Times: 1
+	Date: 2020-07-23 ; Times: 1
+	Date: 2020-07-28 ; Times: 2
+	Date: 2020-07-10 ; Times: 3
+	Date: 2020-07-29 ; Times: 33
+
+List of queries that retrieved data from the resource: 
+	Query: "Desmognathus welteri" ; Times: 3
+	Query: "Eurycea lucifuga" ; Times: 2
+	Query: "Eurycea longicauda" ; Times: 2
+	Query: "plethodon vandykei" ; Times: 4
+	Query: "Eurycea guttolineata" ; Times: 2
+	Query: "Lithobates clamitans distance(location,geopoint(38.320550859945904,-79.59796142578124))&lt;100000" ; Times: 1
+	Query: "desmognathus abditus" ; Times: 1
+	Query: "genus:Desmognathus county:&#34;Monroe&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "Batrachoseps pacificus" ; Times: 1
+	Query: "Desmognathus marmoratus" ; Times: 1
+	Query: "Aneides aeneus" ; Times: 11
+	Query: "Desmognathus aeneus" ; Times: 3
+	Query: "Plethodon mississippi" ; Times: 1
+	Query: "Eurycea bislineata" ; Times: 3
+	Query: "Pseudacris brachyphona" ; Times: 4
+	Query: "Desmognathus imitator" ; Times: 4
+	Query: "Plethodon kentucki" ; Times: 2
+	Query: "Plethodon caddoensis" ; Times: 2
+	Query: "Desmognathus abditus" ; Times: 3
+	Query: "Desmognathus folkertsi" ; Times: 3
+	Query: "specificepithet:punctatus genus:bufo stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Rana pipiens walker river" ; Times: 1
+	Query: "red spotted toad" ; Times: 1
+	Query: "Pseudacris brimleyi" ; Times: 1
+	Query: "Plethodon metcalfi" ; Times: 4
+	Query: "Desmognathus monticola" ; Times: 3
+	Query: "Eurycea cirrigera" ; Times: 2
+	Query: "Gyrinophilus porphyriticus" ; Times: 3
+	Query: "Eurycea aquatica" ; Times: 3
+	Query: "specificepithet:vandykei genus:Plethodon" ; Times: 4
+	Query: "Plethodon richmondi" ; Times: 5
+	Query: "Plethodon glutinosus" ; Times: 1
+	Query: "Plethodon welleri" ; Times: 3
+	Query: "Plethodon dorsalis" ; Times: 1
+	Query: "Plethodon jordani" ; Times: 3
+	Query: "Desmognathus quadramaculatus" ; Times: 2
+	Query: "Plethodon grobmani" ; Times: 1
+	Query: "Pseudotriton ruber" ; Times: 2
+	Query: "Desmognathus carolinensis" ; Times: 3
+	Query: "Hyla gratiosa" ; Times: 3
+	Query: "Plethodon shermani" ; Times: 1
+	Query: "Rana catesbiana" ; Times: 1
+	Query: "Plethodon shenandoah" ; Times: 1
+	Query: "Plethodon wehrlei" ; Times: 3
+	Query: "Pseudacris brachyphona OSUM" ; Times: 1
+	Query: "genus:Cryptobranchus stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "Eurycea quadridigitata" ; Times: 1
+	Query: "Plethodon vandykei" ; Times: 2
+	Query: "Desmognathus brimleyorum" ; Times: 1
+	Query: "specificepithet:maculosus genus:necturus stateprovince:&#34;indiana&#34;" ; Times: 1
+	Query: "Desmognathus wrighti" ; Times: 1
+	Query: "Desmognathus auriculatus" ; Times: 1
+	Query: "Hemidactylium scutatum" ; Times: 3
+	Query: "specificepithet:arenicolor genus:Hyla county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Plethodon yonahlossee" ; Times: 1
+	Query: "Eurycea wilderae" ; Times: 2
+	Query: "Stereochilus marginatus" ; Times: 2
+	Query: "Pseudotriton montanus" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 940 download events in this period)
+Total number of records downloaded: 48
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-23 ; Times: 1
+	Date: 2020-07-08 ; Times: 1
+	Date: 2020-07-19 ; Times: 2
+	Date: 2020-07-25 ; Times: 1
+	Date: 2020-07-03 ; Times: 1
+	Date: 2020-07-28 ; Times: 1
+	Date: 2020-07-05 ; Times: 1
+	Date: 2020-07-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:alvarius family:bufonidae" ; Times: 1
+	Query: "Osteopilus septentrionalis" ; Times: 1
+	Query: "locality:Sipsey county:&#34;Tuscaloosa&#34; stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "class:Amphibia haslength:1" ; Times: 1
+	Query: "rhinella marina" ; Times: 1
+	Query: "specificepithet:marmoratus genus:desmognathus" ; Times: 1
+	Query: "class:Amphibia country:&#34;Bolivia&#34;" ; Times: 1
+	Query: "Smilisca baudinii" ; Times: 1
+	Query: "specificepithet:pretiosa genus:rana" ; Times: 1
+	Query: "specificepithet:valliceps family:bufonidae" ; Times: 1
+
+
+End of report.
